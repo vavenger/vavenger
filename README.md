@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 - HISYS Journal Vol.34 「[サイバーセキュリティの学びのハードルを下げたい - 林 憲明 インタビュー](https://www.shield.ne.jp/ssrc/contents/doc/SSRC-HJ-201910.pdf)」, 2019/10/03
 - ScanNetSecurity 『[アナログゲームで体験するサイバーセキュリティ模擬訓練 ～ インシデント対応ボードゲーム金融版ワークショップレポート](https://scan.netsecurity.ne.jp/article/2019/01/15/41831.html)』, 2019/01/15
 - 毎日新聞 『[サイバー防犯：２２０人学ぶ　専門家が講演　宇都宮で県警　／栃木 - 毎日新聞](https://mainichi.jp/articles/20180224/ddl/k09/040/105000c)』, 2018/02/24
+- TBS 「[スパニチ！！ 日本を今一度洗濯し候。](https://www.tbs.co.jp/program/spanichi_20150614.html)」 - 『テーマ：ネット社会の闇』, 2015/06/14
 - ScanNetSecurity 『[[レポート]編集長注目カンファレンス「APWG CeCOS VIII in 香港」](https://scan.netsecurity.ne.jp/article/2014/04/30/34088.html)』, 2014/04/30
+- 日経産業新聞 『スマホが危ない 30秒で誰でも攻撃者』, 2014/01/15
+- 電経新聞 『スマホを狙ったサイバー攻撃が拡大 トレンドマイクロが犯罪手法を解説 不正アプリが巧妙化』, 2013/12/09
+- 日経産業新聞 『スマホ情報盗む不正アプリ 審査すり抜け巧妙 機能限定し偽装 更新を悪用 無償作成ソフト流布』, 2013/12/06
 - マイナビニュース 『[「正規マーケットでも安心できない」 - トレンドマイクロのスマホ脅威動向](https://news.mynavi.jp/article/20131204-trend_micro/)』, 2013/12/04
 - ScanNetSecurity 『[不正アプリの正規マーケット登録の裏にツールや審査回避の手法（トレンドマイクロ）](https://scan.netsecurity.ne.jp/article/2013/12/04/33081.html)』, 2013/12/04
 - ITmedia Mobile 『[不正アプリは「Google Play」の中にアリ　トレンドマイクロがサイバー犯罪の最新手口を解説](https://www.itmedia.co.jp/mobile/articles/1312/03/news127.html)』, 2013/12/03
