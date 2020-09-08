@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - ScanNetSecurity 『[[レポート] サイバー犯罪対策国際カンファレンス APWG CeCOS VII in ブエノスアイレス](https://scan.netsecurity.ne.jp/article/2013/04/25/31513.html)』, 2013/04/25 
 
 # 登壇履歴
+- 「[情報セキュリティワークショップin越後湯沢](http://www.anisec.jp/yuzawa/?page_id=1048)」 - 『[サイバー犯罪 捜査・調査に踏み出す「突破力」養成講座 – ゼロをイチにする](http://www.anisec.jp/yuzawa/?page_id=618)』, 2019/10/10
 - 「[巧妙化・国際化するオンライン詐欺やサイバー犯罪にどう対応していくのか？](https://apwg-201807.peatix.com/)」 - 『[【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで](https://www.slideshare.net/NoriakiHayashi/live-230725152)』, 2018/07/02
 - 「[新潟県サイバーセキュリティフォーラム2017](http://www.cyber.niigata.jp/html/antisocial.html)」(第6回反社会的勢力排除分科会） - 『[細工された製品が突然牙をむく「サプライチェーン攻撃」の脅威](https://www.slideshare.net/NoriakiHayashi/ss-84510343)』, 2017/12/11
 - 「[情報セキュリティワークショップin越後湯沢2017](http://www.anisec.jp/yuzawa/?page_id=481)」 - 「産学官の賢人に訊く　レジリエンスに求められるサイバー犯罪の知見って何ですか？」 
