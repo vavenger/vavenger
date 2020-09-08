@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 # My Qiita Works
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/v_avenger/posts.svg)](http://qiita.com/v_avenger) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/v_avenger/contributions.svg)](http://qiita.com/v_avenger)
+
+# Hack The Box Badge
+<script src="https://www.hackthebox.eu/badge/174656"></script>
