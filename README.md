@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 
 [ ![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
 
+# 著書
+- 『問題を解いて実力をチェック IoTの問題集』（共著）, 2018/06/15, 日経BP
+- 『ドメインの特徴によるフィッシング詐欺サイト探索の可能性』（共著）, 2018/03/13, 情報処理学会第80回全国大会
+- 『IoTの全てを網羅した決定版 IoTの教科書』（共著）, 2017/08/11, 日経BP
+- 『【イラスト図解満載】情報セキュリティの基礎知識』（共著）, 2017/02/23, 技術評論社
+- 『Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携』（共著）, 2015/04/30, リックテレコム
 
 # 掲載記事
 - HISYS Journal Vol.34 「[サイバーセキュリティの学びのハードルを下げたい - 林 憲明 インタビュー](https://www.shield.ne.jp/ssrc/contents/doc/SSRC-HJ-201910.pdf)」, 2019/10/03
@@ -36,13 +42,6 @@ Here are some ideas to get you started:
 - @IT 『[1クリックで誰でも作成可能、進化する「スマホ不正](https://www.atmarkit.co.jp/ait/articles/1312/03/news110.html)』, 2013/12/03
 - ケータイ Watch 『[作成はわずか30秒、大量生産される不正アプリの実態](https://k-tai.watch.impress.co.jp/docs/news/626181.html)』, 2013/12/03 
 - ScanNetSecurity 『[[レポート] サイバー犯罪対策国際カンファレンス APWG CeCOS VII in ブエノスアイレス](https://scan.netsecurity.ne.jp/article/2013/04/25/31513.html)』, 2013/04/25 
-
-# 著書
-- 『問題を解いて実力をチェック IoTの問題集』（共著）, 2018/06/15, 日経BP
-- 『ドメインの特徴によるフィッシング詐欺サイト探索の可能性』（共著）, 2018/03/13, 情報処理学会第80回全国大会
-- 『IoTの全てを網羅した決定版 IoTの教科書』（共著）, 2017/08/11, 日経BP
-- 『【イラスト図解満載】情報セキュリティの基礎知識』（共著）, 2017/02/23, 技術評論社
-- 『Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携』（共著）, 2015/04/30, リックテレコム
 
 # 国際会議
 - APWG 「[VIENNA SYMPOSIUM ON GLOBAL CYBERSECURITY AWARENESS 2017](https://apwg.eu/vienna-symposium-cybersecurity-awareness-2017/)」 - 『Status Report on the Implementation of Cybersecurity Awareness』, 2017/08/30
