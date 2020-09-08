@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
 - @IT 「[こうしてWebは改ざんされた](https://www.atmarkit.co.jp/ait/series/1212/)」連載, 2013/06/07 - 2013/11/08
 - JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
+- JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
 - 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
-- JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28[
