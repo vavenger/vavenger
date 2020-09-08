@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 - 新潟県サイバー脅威対策協議会 「[第11回サイバー攻撃対策分科会](http://www.cyber.niigata.jp/html/attack.html)」 - 『人工知能技術と成熟技術のブレンドによる多段セキュリティ』, 2017/02/15
 -  「[新潟県サイバーセキュリティフォーラム2016](http://www.cyber.niigata.jp/html/antisocial.html)」(第5回反社会的勢力排除分科会） - 『[潜入　Deep Web 犯罪者の思考を探る](https://www.slideshare.net/NoriakiHayashi/deep-web-96651951)』, 2016/07/25
 埼玉県立浦和高等学校, 『[「シリアスゲーム（Serious Game）」作りを考える](https://www.slideshare.net/NoriakiHayashi/serious-game-63836092)』, 2016/07/08
+- 「[情報セキュリティワークショップin越後湯沢2015](http://www.anisec.jp/yuzawa/?page_id=290)」 - 「サイバー弱者へ疑似体験教育を～アナログゲームで安全に失敗はできるのか？」, 2015/10/09 
 -  「[新潟県サイバーセキュリティフォーラム2015](http://www.cyber.niigata.jp/html/antisocial.html)」(第4回反社会的勢力排除分科会） - 『[オンライン詐欺の温床 犯罪ツールと割れ窓サイトに関する実態報告](http://www.cyber.niigata.jp/pdf/antisocial/forum2015_2.pdf)』, 2015/09/10
 - 「サイバーセキュリティセミナーin 山口 2015」 - 『[模擬戦で標的型サイバー攻撃を知る「正義のハッカー」を育成する方法](https://www.slideshare.net/NoriakiHayashi/advanced-persistent-threat-challenge-v-34-quickstart-guide-japanese)』, 2015/09/04
 - 消費者庁 「[第17回インターネット消費者取引連絡会](https://www.caa.go.jp/policies/policy/consumer_policy/policy_coordination/internet_committee/)」 - 『[インターネット通販詐欺の事例と対策](https://www.caa.go.jp/policies/policy/consumer_policy/policy_coordination/internet_committee/pdf/150612shiryo4.pdf)』, 2015/06/12
