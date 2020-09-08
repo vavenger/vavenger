@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 # 登壇・投稿履歴
 - 「[サイバーセキュリティシンポジウム道後2020](https://www.sec-dogo.jp/)」 - 『【ナイトセッション】わたしのかんがえたさいきょうのフィッシング対策』, 2020/09/17
 - 「[情報セキュリティワークショップin越後湯沢2019](http://www.anisec.jp/yuzawa/?page_id=1048)」 - 『[サイバー犯罪 捜査・調査に踏み出す「突破力」養成講座 – ゼロをイチにする](http://www.anisec.jp/yuzawa/?page_id=618)』, 2019/10/10
-- 「[巧妙化・国際化するオンライン詐欺やサイバー犯罪にどう対応していくのか？](https://apwg-201807.peatix.com/)」 - 『[【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで](https://www.slideshare.net/NoriakiHayashi/live-230725152)』, 2018/07/02
+- APWG 「[巧妙化・国際化するオンライン詐欺やサイバー犯罪にどう対応していくのか？](https://apwg-201807.peatix.com/)」 - 『[【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで](https://www.slideshare.net/NoriakiHayashi/live-230725152)』, 2018/07/02
 - 栃木県警察本部 「サイバーセキュリティ研修会」 - 『ネットショッピングを脅かす「詐欺サイト」との闘い方』, 2018/02/20
 - 「[新潟県サイバーセキュリティフォーラム2017](http://www.cyber.niigata.jp/html/antisocial.html)」(第6回反社会的勢力排除分科会） - 『[細工された製品が突然牙をむく「サプライチェーン攻撃」の脅威](https://www.slideshare.net/NoriakiHayashi/ss-84510343)』, 2017/12/11
 - 「[情報セキュリティワークショップin越後湯沢2017](http://www.anisec.jp/yuzawa/?page_id=481)」 - 「産学官の賢人に訊く　レジリエンスに求められるサイバー犯罪の知見って何ですか？」, 2017/10/06 
-- 「[APWG VIENNA SYMPOSIUM ON GLOBAL CYBERSECURITY AWARENESS 2017](https://apwg.eu/vienna-symposium-cybersecurity-awareness-2017/)」 - 『Status Report on the Implementation of Cybersecurity Awareness』, 2017/08/30
+- APWG 「[VIENNA SYMPOSIUM ON GLOBAL CYBERSECURITY AWARENESS 2017](https://apwg.eu/vienna-symposium-cybersecurity-awareness-2017/)」 - 『Status Report on the Implementation of Cybersecurity Awareness』, 2017/08/30
 - 「crash.academyセキュリティスキルアップセミナー」 - 『[サイバーレンジ演習の意義](https://crash.academy/video/121/724)』, 2017/07/24
 - 新潟県サイバー脅威対策協議会 「[第11回サイバー攻撃対策分科会](http://www.cyber.niigata.jp/html/attack.html)」 - 『人工知能技術と成熟技術のブレンドによる多段セキュリティ』, 2017/02/15
 -  「[新潟県サイバーセキュリティフォーラム2016](http://www.cyber.niigata.jp/html/antisocial.html)」(第5回反社会的勢力排除分科会） - 『[潜入　Deep Web 犯罪者の思考を探る](https://www.slideshare.net/NoriakiHayashi/deep-web-96651951)』, 2016/07/25
@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 - JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
 - @IT 「[こうしてWebは改ざんされた](https://www.atmarkit.co.jp/ait/series/1212/)」連載, 2013/06/07 - 2013/11/08
 - 「[第17回サイバー犯罪に関する白浜シンポジウム](https://www.riis.or.jp/symposium/vol.17/index.html)」 - 『[フィッシング、認証情報詐取の実態とその対抗手段](https://www.riis.or.jp/symposium/vol.17/hayashi.pdf)』, 2013/05/24
-- 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
+- APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
