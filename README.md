@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 - ScanNetSecurity 『[アナログゲームで体験するサイバーセキュリティ模擬訓練 ～ インシデント対応ボードゲーム金融版ワークショップレポート](https://scan.netsecurity.ne.jp/article/2019/01/15/41831.html)』, 2019/01/15
 - 毎日新聞 『[サイバー防犯：２２０人学ぶ　専門家が講演　宇都宮で県警　／栃木 - 毎日新聞](https://mainichi.jp/articles/20180224/ddl/k09/040/105000c)』, 2018/02/24
 - ScanNetSecurity 『[[レポート]編集長注目カンファレンス「APWG CeCOS VIII in 香港」](https://scan.netsecurity.ne.jp/article/2014/04/30/34088.html)』, 2014/04/30
+- マイナビニュース 『[「正規マーケットでも安心できない」 - トレンドマイクロのスマホ脅威動向](https://news.mynavi.jp/article/20131204-trend_micro/)』, 2013/12/04
+- ScanNetSecurity 『[不正アプリの正規マーケット登録の裏にツールや審査回避の手法（トレンドマイクロ）](https://scan.netsecurity.ne.jp/article/2013/12/04/33081.html)』, 2013/12/04
+- ITmedia Mobile 『[不正アプリは「Google Play」の中にアリ　トレンドマイクロがサイバー犯罪の最新手口を解説](https://www.itmedia.co.jp/mobile/articles/1312/03/news127.html)』, 2013/12/03
+- @IT 『[1クリックで誰でも作成可能、進化する「スマホ不正](https://www.atmarkit.co.jp/ait/articles/1312/03/news110.html)』, 2013/12/03
+- ケータイ Watch 『[作成はわずか30秒、大量生産される不正アプリの実態](https://k-tai.watch.impress.co.jp/docs/news/626181.html)』, 2013/12/03 
 - ScanNetSecurity 『[[レポート] サイバー犯罪対策国際カンファレンス APWG CeCOS VII in ブエノスアイレス](https://scan.netsecurity.ne.jp/article/2013/04/25/31513.html)』, 2013/04/25 
 
 # 著書
