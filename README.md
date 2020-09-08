@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 毎日新聞 『[サイバー防犯：２２０人学ぶ　専門家が講演　宇都宮で県警　／栃木 - 毎日新聞](https://mainichi.jp/articles/20180224/ddl/k09/040/105000c)』, 2018/02/24
 
 # 登壇履歴
+- 「[巧妙化・国際化するオンライン詐欺やサイバー犯罪にどう対応していくのか？](https://apwg-201807.peatix.com/)」 - 『[【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで](https://www.slideshare.net/NoriakiHayashi/live-230725152)』, 2018/07/02
 - 「[新潟県サイバーセキュリティフォーラム2017](http://www.cyber.niigata.jp/html/antisocial.html)」(第6回反社会的勢力排除分科会） - 『[細工された製品が突然牙をむく「サプライチェーン攻撃」の脅威](https://www.slideshare.net/NoriakiHayashi/ss-84510343)』, 2017/12/11
 - 新潟県サイバー脅威対策協議会 「[第11回サイバー攻撃対策分科会](http://www.cyber.niigata.jp/html/attack.html)」 - 『人工知能技術と成熟技術のブレンドによる多段セキュリティ』, 2017/02/15
 -  「[新潟県サイバーセキュリティフォーラム2016](http://www.cyber.niigata.jp/html/antisocial.html)」(第5回反社会的勢力排除分科会） - 『[潜入　Deep Web 犯罪者の思考を探る](https://www.slideshare.net/NoriakiHayashi/deep-web-96651951)』, 2016/07/25
