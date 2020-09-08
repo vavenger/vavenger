@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 -  「[新潟県サイバーセキュリティフォーラム2015](http://www.cyber.niigata.jp/html/antisocial.html)」(第4回反社会的勢力排除分科会） - 『[オンライン詐欺の温床 犯罪ツールと割れ窓サイトに関する実態報告](http://www.cyber.niigata.jp/pdf/antisocial/forum2015_2.pdf)』, 2015/09/10
 - 「サイバーセキュリティセミナーin 山口 2015」 - 『[模擬戦で標的型サイバー攻撃を知る「正義のハッカー」を育成する方法](https://www.slideshare.net/NoriakiHayashi/advanced-persistent-threat-challenge-v-34-quickstart-guide-japanese)』, 2015/09/04
 - JSSEC 「[スマートフォン セキュリティ・シンポジウム 2015](https://www.jssec.org/event/seminer20150226.html)」 - 『[今年のモバイルインシデントへの備え・2014年事案から紐解く](https://www.jssec.org/dl/20150226_Noriaki_Hayashi.pdf)』, 2015/02/26
+- 埼玉サイバーセキュリティ推進会議 「[第1回情報セキュリティセミナー 情報セキュリティ対策の現状と課題](http://www.saitamacci.or.jp/info/2014.11.19.pdf)」 - 『ネットバンキング被害の対策は「STOP. THINK. CONNECT.」』, 2014/11/19
 - JNSAメールマガジン 第40号 『[IoT時代における「運行支援プロトコル：ADS-B/AIS」に対するセキュリティ確保の挑戦](https://www.jnsa.org/aboutus/jnsaml/ml-40.html)』, 2014/07/25
 - 「[新潟県サイバーセキュリティフォーラム2014](http://www.cyber.niigata.jp/html/antisocial.html)」(第3回反社会的勢力排除分科会） - 『「オンライン銀行詐欺ツール」を使った新たな詐欺手口』, 2014/07/17
 - JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
