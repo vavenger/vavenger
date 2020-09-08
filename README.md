@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 # 掲載記事
 - HISYS Journal Vol.34 「[サイバーセキュリティの学びのハードルを下げたい - 林 憲明 インタビュー](https://www.shield.ne.jp/ssrc/contents/doc/SSRC-HJ-201910.pdf)」, 2019/10/03
 - 毎日新聞 『[サイバー防犯：２２０人学ぶ　専門家が講演　宇都宮で県警　／栃木 - 毎日新聞](https://mainichi.jp/articles/20180224/ddl/k09/040/105000c)』, 2018/02/24
+- ScanNetSecurity 『[[レポート]編集長注目カンファレンス「APWG CeCOS VIII in 香港」](https://scan.netsecurity.ne.jp/article/2014/04/30/34088.html)』, 2014/04/30
+- ScanNetSecurity 『[[レポート] サイバー犯罪対策国際カンファレンス APWG CeCOS VII in ブエノスアイレス](https://scan.netsecurity.ne.jp/article/2013/04/25/31513.html)』, 2013/04/25 
 
 # 登壇履歴
 - 「[巧妙化・国際化するオンライン詐欺やサイバー犯罪にどう対応していくのか？](https://apwg-201807.peatix.com/)」 - 『[【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで](https://www.slideshare.net/NoriakiHayashi/live-230725152)』, 2018/07/02
