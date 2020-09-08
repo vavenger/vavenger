@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Qiitaコントリビューション数をGitHubのプロフィールに貼ってドヤれるサービスを作った, https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50 -->
-
 # My Works Badge
-[ ![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
+<!-- Qiitaコントリビューション数をGitHubのプロフィールに貼ってドヤれるサービスを作った, https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50 -->
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/v_avenger/posts.svg)](http://qiita.com/v_avenger) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/v_avenger/contributions.svg)](http://qiita.com/v_avenger)
+
+[ ![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
+
 
 # 掲載記事
 - HISYS Journal Vol.34 「[サイバーセキュリティの学びのハードルを下げたい - 林 憲明 インタビュー](https://www.shield.ne.jp/ssrc/contents/doc/SSRC-HJ-201910.pdf)」, 2019/10/03
