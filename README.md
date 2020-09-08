@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 「[新潟県サイバーセキュリティフォーラム2017](http://www.cyber.niigata.jp/html/antisocial.html)」(第6回反社会的勢力排除分科会） - 『[細工された製品が突然牙をむく「サプライチェーン攻撃」の脅威](https://www.slideshare.net/NoriakiHayashi/ss-84510343)』, 2017/12/11
 - 新潟県サイバー脅威対策協議会 「[第11回サイバー攻撃対策分科会](http://www.cyber.niigata.jp/html/attack.html)」 - 『人工知能技術と成熟技術のブレンドによる多段セキュリティ』, 2017/02/15
 -  「[新潟県サイバーセキュリティフォーラム2016](http://www.cyber.niigata.jp/html/antisocial.html)」(第5回反社会的勢力排除分科会） - 『[潜入　Deep Web 犯罪者の思考を探る](https://www.slideshare.net/NoriakiHayashi/deep-web-96651951)』, 2016/07/25
+埼玉県立浦和高等学校, 『[「シリアスゲーム（Serious Game）」作りを考える](https://www.slideshare.net/NoriakiHayashi/serious-game-63836092)』, 2016/07/08
 -  「[新潟県サイバーセキュリティフォーラム2015](http://www.cyber.niigata.jp/html/antisocial.html)」(第4回反社会的勢力排除分科会） - 『[オンライン詐欺の温床 犯罪ツールと割れ窓サイトに関する実態報告](http://www.cyber.niigata.jp/pdf/antisocial/forum2015_2.pdf)』, 2015/09/10
 - JSSEC 「[スマートフォン セキュリティ・シンポジウム 2015](https://www.jssec.org/event/seminer20150226.html)」 - 『[今年のモバイルインシデントへの備え・2014年事案から紐解く](https://www.jssec.org/dl/20150226_Noriaki_Hayashi.pdf)』, 2015/02/26
 - 「[新潟県サイバーセキュリティフォーラム2014](http://www.cyber.niigata.jp/html/antisocial.html)」(第3回反社会的勢力排除分科会） - 『「オンライン銀行詐欺ツール」を使った新たな詐欺手口』, 2014/07/17
