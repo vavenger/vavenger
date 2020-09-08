@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vavenger/vavenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/v_avenger/posts.svg)](http://qiita.com/v_avenger)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/v_avenger/contributions.svg)](http://qiita.com/v_avenger)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/v_avenger/followers.svg)](http://qiita.com/v_avenger)
+# My Qiita Works
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/v_avenger/posts.svg)](http://qiita.com/v_avenger) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/v_avenger/contributions.svg)](http://qiita.com/v_avenger) [![My Qiita followers](https://qiita-badge.apiapi.app/s/v_avenger/followers.svg)](http://qiita.com/v_avenger)
                 
