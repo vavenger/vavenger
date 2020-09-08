@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 - 愛媛県ネットワーク防犯連絡協議会 「[2014年度 第1回勉強会](https://www.iyo.ne.jp/ensa/oa-07/oa-07-12/oa-07-12-01/index.html)」 - 『サイバー探偵事始, 不正プログラムが残した「Digital Footprint」を辿る（緊急時（不正アクセスやウイルス感染）の対処要領）』, 2014/12/09
 - 愛媛県ネットワーク防犯連絡協議会 「[2014年度 第1回勉強会](https://www.iyo.ne.jp/ensa/oa-07/oa-07-12/oa-07-12-01/index.html)」 - 『あなたのスマホが狙われている！（スマートフォンのセキュリティ対策）』, 2014/12/09
 - 埼玉サイバーセキュリティ推進会議 「[第1回情報セキュリティセミナー 情報セキュリティ対策の現状と課題](http://www.saitamacci.or.jp/info/2014.11.19.pdf)」 - 『ネットバンキング被害の対策は「STOP. THINK. CONNECT.」』, 2014/11/19
+- JSSEC 「[スマートフォン セキュリティ アップデート（2014 夏）](https://www.jssec.org/event/140801.html)」 - 『[様々なジャンルにはびこる偽アプリ](http://www.jssec.org/dl/20140801_TrendMicro_Noriaki_HAYASHI.pdf)』, 2014/08/01
 - JNSAメールマガジン 第40号 『[IoT時代における「運行支援プロトコル：ADS-B/AIS」に対するセキュリティ確保の挑戦](https://www.jnsa.org/aboutus/jnsaml/ml-40.html)』, 2014/07/25
 - 「[新潟県サイバーセキュリティフォーラム2014](http://www.cyber.niigata.jp/html/antisocial.html)」(第3回反社会的勢力排除分科会） - 『「オンライン銀行詐欺ツール」を使った新たな詐欺手口』, 2014/07/17
 - JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
