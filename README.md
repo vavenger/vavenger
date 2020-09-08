@@ -67,3 +67,4 @@ Here are some ideas to get you started:
 - JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
 - @IT 「[こうしてWebは改ざんされた](https://www.atmarkit.co.jp/ait/series/1212/)」連載, 2013/06/07 - 2013/11/08
 - 「[第17回サイバー犯罪に関する白浜シンポジウム](https://www.riis.or.jp/symposium/vol.17/index.html)」 - 『[フィッシング、認証情報詐取の実態とその対抗手段](https://www.riis.or.jp/symposium/vol.17/hayashi.pdf)』, 2013/05/24
+- 「[Mobile IT Asia](https://www.jemco.jp/event-sys/time-table/conference.html)」 - 『スマホの安全性、ウソ・ホント！？, True or False? - For Smartphone SECurity』, 2012/03/14
