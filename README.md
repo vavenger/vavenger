@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 [ ![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/v_avenger/posts.svg)](http://qiita.com/v_avenger) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/v_avenger/contributions.svg)](http://qiita.com/v_avenger)
 
-# 登壇履歴
+# 掲載記事
 - HISYS Journal Vol.34 「[サイバーセキュリティの学びのハードルを下げたい - 林 憲明 インタビュー](https://www.shield.ne.jp/ssrc/contents/doc/SSRC-HJ-201910.pdf)」, 2019/10/03
+
+# 登壇履歴
 - 「[新潟県サイバーセキュリティフォーラム2017](http://www.cyber.niigata.jp/html/antisocial.html)」(第6回反社会的勢力排除分科会） - 『[細工された製品が突然牙をむく「サプライチェーン攻撃」の脅威](https://www.slideshare.net/NoriakiHayashi/ss-84510343)』, 2017/12/11
 - 新潟県サイバー脅威対策協議会 「[第11回サイバー攻撃対策分科会](http://www.cyber.niigata.jp/html/attack.html)」 - 『人工知能技術と成熟技術のブレンドによる多段セキュリティ』, 2017/02/15
 -  「[新潟県サイバーセキュリティフォーラム2016](http://www.cyber.niigata.jp/html/antisocial.html)」(第5回反社会的勢力排除分科会） - 『[潜入　Deep Web 犯罪者の思考を探る](https://www.slideshare.net/NoriakiHayashi/deep-web-96651951)』, 2016/07/25
