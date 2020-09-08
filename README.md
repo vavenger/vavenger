@@ -35,6 +35,11 @@ Here are some ideas to get you started:
 - 『【イラスト図解満載】情報セキュリティの基礎知識』（共著）, 2017/02/23, 技術評論社
 - 『Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携』（共著）, 2015/04/30, リックテレコム
 
+# 国際会議
+- APWG 「[VIENNA SYMPOSIUM ON GLOBAL CYBERSECURITY AWARENESS 2017](https://apwg.eu/vienna-symposium-cybersecurity-awareness-2017/)」 - 『Status Report on the Implementation of Cybersecurity Awareness』, 2017/08/30
+- APWG 「[Counter eCrime Operations Summit (CeCOS VIII)](https://www.businesswire.com/news/home/20140122006569/en/APWG-Counter-eCrime-Operations-Summit-CeCOS-VIII)」 - 『Analysis of Advertising for Imitation Distributors in Cyberspace（サイバー空間における模造品販売業者による広告活動）』, 2014/04/09
+- APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
+
 # 登壇・投稿履歴
 - 「[サイバーセキュリティシンポジウム道後2020](https://www.sec-dogo.jp/)」 - 『【ナイトセッション】わたしのかんがえたさいきょうのフィッシング対策』, 2020/09/17
 - 「[情報セキュリティワークショップin越後湯沢2019](http://www.anisec.jp/yuzawa/?page_id=1048)」 - 『[サイバー犯罪 捜査・調査に踏み出す「突破力」養成講座 – ゼロをイチにする](http://www.anisec.jp/yuzawa/?page_id=618)』, 2019/10/10
@@ -42,7 +47,6 @@ Here are some ideas to get you started:
 - 栃木県警察本部 「サイバーセキュリティ研修会」 - 『ネットショッピングを脅かす「詐欺サイト」との闘い方』, 2018/02/20
 - 「[新潟県サイバーセキュリティフォーラム2017](http://www.cyber.niigata.jp/html/antisocial.html)」(第6回反社会的勢力排除分科会） - 『[細工された製品が突然牙をむく「サプライチェーン攻撃」の脅威](https://www.slideshare.net/NoriakiHayashi/ss-84510343)』, 2017/12/11
 - 「[情報セキュリティワークショップin越後湯沢2017](http://www.anisec.jp/yuzawa/?page_id=481)」 - 「産学官の賢人に訊く　レジリエンスに求められるサイバー犯罪の知見って何ですか？」, 2017/10/06 
-- APWG 「[VIENNA SYMPOSIUM ON GLOBAL CYBERSECURITY AWARENESS 2017](https://apwg.eu/vienna-symposium-cybersecurity-awareness-2017/)」 - 『Status Report on the Implementation of Cybersecurity Awareness』, 2017/08/30
 - 「crash.academyセキュリティスキルアップセミナー」 - 『[サイバーレンジ演習の意義](https://crash.academy/video/121/724)』, 2017/07/24
 - 「第14回 情報セキュリティEXPO 春」 - 『サイバーセキュリティ演習 ～カードゲームで不正行為の起こる仕組みとその対策を学ぶ～』, 2017/05/11
 - 新潟県サイバー脅威対策協議会 「[第11回サイバー攻撃対策分科会](http://www.cyber.niigata.jp/html/attack.html)」 - 『人工知能技術と成熟技術のブレンドによる多段セキュリティ』, 2017/02/15
@@ -50,13 +54,12 @@ Here are some ideas to get you started:
 埼玉県立浦和高等学校, 『[「シリアスゲーム（Serious Game）」作りを考える](https://www.slideshare.net/NoriakiHayashi/serious-game-63836092)』, 2016/07/08
 -  「[新潟県サイバーセキュリティフォーラム2015](http://www.cyber.niigata.jp/html/antisocial.html)」(第4回反社会的勢力排除分科会） - 『[オンライン詐欺の温床 犯罪ツールと割れ窓サイトに関する実態報告](http://www.cyber.niigata.jp/pdf/antisocial/forum2015_2.pdf)』, 2015/09/10
 - 「サイバーセキュリティセミナーin 山口 2015」 - 『[模擬戦で標的型サイバー攻撃を知る「正義のハッカー」を育成する方法](https://www.slideshare.net/NoriakiHayashi/advanced-persistent-threat-challenge-v-34-quickstart-guide-japanese)』, 2015/09/04
+- 消費者庁 「[第17回インターネット消費者取引連絡会](https://www.caa.go.jp/policies/policy/consumer_policy/policy_coordination/internet_committee/)」 - 『[インターネット通販詐欺の事例と対策](https://www.caa.go.jp/policies/policy/consumer_policy/policy_coordination/internet_committee/pdf/150612shiryo4.pdf)』, 2015/06/12
 - JSSEC 「[スマートフォン セキュリティ・シンポジウム 2015](https://www.jssec.org/event/seminer20150226.html)」 - 『[スマートフォン セキュリティ シンポジウム2015 ビデオアーカイブ Vol.4](https://www.youtube.com/watch?v=ZIdVTU0cTxE)』, 2015/02/26
 - JSSEC 「[スマートフォン セキュリティ・シンポジウム 2015](https://www.jssec.org/event/seminer20150226.html)」 - 『[今年のモバイルインシデントへの備え・2014年事案から紐解く](https://www.jssec.org/dl/20150226_Noriaki_Hayashi.pdf)』, 2015/02/26
 - 埼玉サイバーセキュリティ推進会議 「[第1回情報セキュリティセミナー 情報セキュリティ対策の現状と課題](http://www.saitamacci.or.jp/info/2014.11.19.pdf)」 - 『ネットバンキング被害の対策は「STOP. THINK. CONNECT.」』, 2014/11/19
 - JNSAメールマガジン 第40号 『[IoT時代における「運行支援プロトコル：ADS-B/AIS」に対するセキュリティ確保の挑戦](https://www.jnsa.org/aboutus/jnsaml/ml-40.html)』, 2014/07/25
 - 「[新潟県サイバーセキュリティフォーラム2014](http://www.cyber.niigata.jp/html/antisocial.html)」(第3回反社会的勢力排除分科会） - 『「オンライン銀行詐欺ツール」を使った新たな詐欺手口』, 2014/07/17
-- APWG 「[Counter eCrime Operations Summit (CeCOS VIII)](https://www.businesswire.com/news/home/20140122006569/en/APWG-Counter-eCrime-Operations-Summit-CeCOS-VIII)」 - 『Analysis of Advertising for Imitation Distributors in Cyberspace（サイバー空間における模造品販売業者による広告活動）』, 2014/04/09
 - JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
 - @IT 「[こうしてWebは改ざんされた](https://www.atmarkit.co.jp/ait/series/1212/)」連載, 2013/06/07 - 2013/11/08
 - 「[第17回サイバー犯罪に関する白浜シンポジウム](https://www.riis.or.jp/symposium/vol.17/index.html)」 - 『[フィッシング、認証情報詐取の実態とその対抗手段](https://www.riis.or.jp/symposium/vol.17/hayashi.pdf)』, 2013/05/24
-- APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
