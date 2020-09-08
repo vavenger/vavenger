@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 埼玉県立浦和高等学校, 『[「シリアスゲーム（Serious Game）」作りを考える](https://www.slideshare.net/NoriakiHayashi/serious-game-63836092)』, 2016/07/08
 -  「[新潟県サイバーセキュリティフォーラム2015](http://www.cyber.niigata.jp/html/antisocial.html)」(第4回反社会的勢力排除分科会） - 『[オンライン詐欺の温床 犯罪ツールと割れ窓サイトに関する実態報告](http://www.cyber.niigata.jp/pdf/antisocial/forum2015_2.pdf)』, 2015/09/10
 - JSSEC 「[スマートフォン セキュリティ・シンポジウム 2015](https://www.jssec.org/event/seminer20150226.html)」 - 『[今年のモバイルインシデントへの備え・2014年事案から紐解く](https://www.jssec.org/dl/20150226_Noriaki_Hayashi.pdf)』, 2015/02/26
+- JNSAメールマガジン 第40号 『[IoT時代における「運行支援プロトコル：ADS-B/AIS」に対するセキュリティ確保の挑戦](https://www.jnsa.org/aboutus/jnsaml/ml-40.html)』, 2014/07/25
 - 「[新潟県サイバーセキュリティフォーラム2014](http://www.cyber.niigata.jp/html/antisocial.html)」(第3回反社会的勢力排除分科会） - 『「オンライン銀行詐欺ツール」を使った新たな詐欺手口』, 2014/07/17
 - JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
 - @IT 「[こうしてWebは改ざんされた](https://www.atmarkit.co.jp/ait/series/1212/)」連載, 2013/06/07 - 2013/11/08
