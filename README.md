@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # My Works Badge
 <!-- Qiitaコントリビューション数をGitHubのプロフィールに貼ってドヤれるサービスを作った, https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50 -->
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/v_avenger/posts.svg)](http://qiita.com/v_avenger) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/v_avenger/contributions.svg)](http://qiita.com/v_avenger)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/v_avenger/posts.svg)](http://qiita.com/v_avenger) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/v_avenger/contributions.svg)](http://qiita.com/v_avenger) [![My Qiita followers](https://qiita-badge.apiapi.app/s/v_avenger/followers.svg)](http://qiita.com/v_avenger)
 
 [ ![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
 
