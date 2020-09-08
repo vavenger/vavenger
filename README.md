@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 - 埼玉サイバーセキュリティ推進会議 「[第1回情報セキュリティセミナー 情報セキュリティ対策の現状と課題](http://www.saitamacci.or.jp/info/2014.11.19.pdf)」 - 『ネットバンキング被害の対策は「STOP. THINK. CONNECT.」』, 2014/11/19
 - JNSAメールマガジン 第40号 『[IoT時代における「運行支援プロトコル：ADS-B/AIS」に対するセキュリティ確保の挑戦](https://www.jnsa.org/aboutus/jnsaml/ml-40.html)』, 2014/07/25
 - 「[新潟県サイバーセキュリティフォーラム2014](http://www.cyber.niigata.jp/html/antisocial.html)」(第3回反社会的勢力排除分科会） - 『「オンライン銀行詐欺ツール」を使った新たな詐欺手口』, 2014/07/17
+- APWG 「Counter eCrime Operations Summit (CeCOS VIII)」 - 『Analysis of Advertising for Imitation Distributors in Cyberspace（サイバー空間における模造品販売業者による広告活動）』, 2014/04/09
 - JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
 - @IT 「[こうしてWebは改ざんされた](https://www.atmarkit.co.jp/ait/series/1212/)」連載, 2013/06/07 - 2013/11/08
 - 「[第17回サイバー犯罪に関する白浜シンポジウム](https://www.riis.or.jp/symposium/vol.17/index.html)」 - 『[フィッシング、認証情報詐取の実態とその対抗手段](https://www.riis.or.jp/symposium/vol.17/hayashi.pdf)』, 2013/05/24
