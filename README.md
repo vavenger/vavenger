@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 - 消費者庁 「[第17回インターネット消費者取引連絡会](https://www.caa.go.jp/policies/policy/consumer_policy/policy_coordination/internet_committee/)」 - 『[インターネット通販詐欺の事例と対策](https://www.caa.go.jp/policies/policy/consumer_policy/policy_coordination/internet_committee/pdf/150612shiryo4.pdf)』, 2015/06/12
 - JSSEC 「[スマートフォン セキュリティ・シンポジウム 2015](https://www.jssec.org/event/seminer20150226.html)」 - 『[スマートフォン セキュリティ シンポジウム2015 ビデオアーカイブ Vol.4](https://www.youtube.com/watch?v=ZIdVTU0cTxE)』, 2015/02/26
 - JSSEC 「[スマートフォン セキュリティ・シンポジウム 2015](https://www.jssec.org/event/seminer20150226.html)」 - 『[今年のモバイルインシデントへの備え・2014年事案から紐解く](https://www.jssec.org/dl/20150226_Noriaki_Hayashi.pdf)』, 2015/02/26
+- 愛媛県ネットワーク防犯連絡協議会 「[2014年度 第1回勉強会](https://www.iyo.ne.jp/ensa/oa-07/oa-07-12/oa-07-12-01/index.html)」 - 『サイバー探偵事始, 不正プログラムが残した「Digital Footprint」を辿る（緊急時（不正アクセスやウイルス感染）の対処要領）』, 2014/12/09
+- 愛媛県ネットワーク防犯連絡協議会 「[2014年度 第1回勉強会](https://www.iyo.ne.jp/ensa/oa-07/oa-07-12/oa-07-12-01/index.html)」 - 『あなたのスマホが狙われている！（スマートフォンのセキュリティ対策）』, 2014/12/09
 - 埼玉サイバーセキュリティ推進会議 「[第1回情報セキュリティセミナー 情報セキュリティ対策の現状と課題](http://www.saitamacci.or.jp/info/2014.11.19.pdf)」 - 『ネットバンキング被害の対策は「STOP. THINK. CONNECT.」』, 2014/11/19
 - JNSAメールマガジン 第40号 『[IoT時代における「運行支援プロトコル：ADS-B/AIS」に対するセキュリティ確保の挑戦](https://www.jnsa.org/aboutus/jnsaml/ml-40.html)』, 2014/07/25
 - 「[新潟県サイバーセキュリティフォーラム2014](http://www.cyber.niigata.jp/html/antisocial.html)」(第3回反社会的勢力排除分科会） - 『「オンライン銀行詐欺ツール」を使った新たな詐欺手口』, 2014/07/17
