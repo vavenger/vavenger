@@ -54,12 +54,14 @@ Here are some ideas to get you started:
 - さんぽう進学ネット 「[AI（人工知能）・VR/IoT/AR・情報セキュリティ系進路相談会](https://www.sanpou-s.net/search_event/event/181117/)」 - 『セキュリティエンジニアの仕事と求められる人物像』, 2018/11/17
 - 埼玉県警察本部 「[理系向け] サイバーセキュリティキャリア研究セミナー」 - 『セキュリティエンジニアの仕事と求められる人物像』, 2018/11/04
 - APWG 「[巧妙化・国際化するオンライン詐欺やサイバー犯罪にどう対応していくのか？](https://apwg-201807.peatix.com/)」 - 『[【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで](https://www.slideshare.net/NoriakiHayashi/live-230725152)』, 2018/07/02
+- JNSA 「[JNSAゲーム教育WG セキュリティゲーム体験イベント](https://www.jnsa.org/seminar/2018/0308/index.html)」 - 『「セキュリティ専門家人狼」ゲーム体験』, 2018/03/08
 - 栃木県警察本部 「サイバーセキュリティ研修会」 - 『ネットショッピングを脅かす「詐欺サイト」との闘い方』, 2018/02/20
 - 「[新潟県サイバーセキュリティフォーラム2017](http://www.cyber.niigata.jp/html/antisocial.html)」(第6回反社会的勢力排除分科会） - 『[細工された製品が突然牙をむく「サプライチェーン攻撃」の脅威](https://www.slideshare.net/NoriakiHayashi/ss-84510343)』, 2017/12/11
 - 「[情報セキュリティワークショップin越後湯沢2017](http://www.anisec.jp/yuzawa/?page_id=481)」 - 「産学官の賢人に訊く　レジリエンスに求められるサイバー犯罪の知見って何ですか？」, 2017/10/06 
 - 「crash.academyセキュリティスキルアップセミナー」 - 『[サイバーレンジ演習の意義](https://crash.academy/video/121/724)』, 2017/07/24
 - 「第14回 情報セキュリティEXPO 春」 - 『サイバーセキュリティ演習 ～カードゲームで不正行為の起こる仕組みとその対策を学ぶ～』, 2017/05/11
 - 新潟県サイバー脅威対策協議会 「[第11回サイバー攻撃対策分科会](http://www.cyber.niigata.jp/html/attack.html)」 - 『人工知能技術と成熟技術のブレンドによる多段セキュリティ』, 2017/02/15
+- JNSA 「[Network Security Forum 2017](https://www.jnsa.org/seminar/nsf/2017/pro.html)」 - 『[セキュリティをゲームで学ぼう！](https://www.jnsa.org/seminar/nsf/2017/data/NSF2017_A4.pdf)』, 2017/01/23
 -  「[新潟県サイバーセキュリティフォーラム2016](http://www.cyber.niigata.jp/html/antisocial.html)」(第5回反社会的勢力排除分科会） - 『[潜入　Deep Web 犯罪者の思考を探る](https://www.slideshare.net/NoriakiHayashi/deep-web-96651951)』, 2016/07/25
 埼玉県立浦和高等学校, 『[「シリアスゲーム（Serious Game）」作りを考える](https://www.slideshare.net/NoriakiHayashi/serious-game-63836092)』, 2016/07/08
 - 「[情報セキュリティワークショップin越後湯沢2015](http://www.anisec.jp/yuzawa/?page_id=290)」 - 「サイバー弱者へ疑似体験教育を～アナログゲームで安全に失敗はできるのか？」, 2015/10/09 
