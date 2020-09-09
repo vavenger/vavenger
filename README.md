@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 - 「第14回 情報セキュリティEXPO 春」 - 『サイバーセキュリティ演習 ～カードゲームで不正行為の起こる仕組みとその対策を学ぶ～』, 2017/05/11
 - 新潟県サイバー脅威対策協議会 「[第11回サイバー攻撃対策分科会](http://www.cyber.niigata.jp/html/attack.html)」 - 『人工知能技術と成熟技術のブレンドによる多段セキュリティ』, 2017/02/15
 - JNSA 「[Network Security Forum 2017](https://www.jnsa.org/seminar/nsf/2017/pro.html)」 - 『[セキュリティをゲームで学ぼう！](https://www.jnsa.org/seminar/nsf/2017/data/NSF2017_A4.pdf)』, 2017/01/23
+- JNSA 「[教育部会ゲーム教育WG](https://www.jnsa.org/edu/secgame/)」 - 『[セキュリティ専門家人狼 - 【クイックスタートガイド 第1版】](https://www.jnsa.org/edu/secgame/secwerewolf/data/SECWEREWOLF_quickstart_guide_v10.pdf)』, 2017/01/20
 -  「[新潟県サイバーセキュリティフォーラム2016](http://www.cyber.niigata.jp/html/antisocial.html)」(第5回反社会的勢力排除分科会） - 『[潜入　Deep Web 犯罪者の思考を探る](https://www.slideshare.net/NoriakiHayashi/deep-web-96651951)』, 2016/07/25
 埼玉県立浦和高等学校, 『[「シリアスゲーム（Serious Game）」作りを考える](https://www.slideshare.net/NoriakiHayashi/serious-game-63836092)』, 2016/07/08
 - 「[情報セキュリティワークショップin越後湯沢2015](http://www.anisec.jp/yuzawa/?page_id=290)」 - 「サイバー弱者へ疑似体験教育を～アナログゲームで安全に失敗はできるのか？」, 2015/10/09 
