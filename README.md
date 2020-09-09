@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 
 # Social
 <!-- Qiitaコントリビューション数をGitHubのプロフィールに貼ってドヤれるサービスを作った, https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50 -->
-<a href="https://twitter.com/intent/follow?screen_name=v_avenger"><img src="https://img.shields.io/twitter/follow/v_avenger?style=social&logo=twitter" alt="follow on Twitter"></a>
  [![My Qiita posts](https://qiita-badge.apiapi.app/s/v_avenger/posts.svg)](http://qiita.com/v_avenger) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/v_avenger/contributions.svg)](http://qiita.com/v_avenger) [![My Qiita followers](https://qiita-badge.apiapi.app/s/v_avenger/followers.svg)](http://qiita.com/v_avenger)
+<a href="https://twitter.com/intent/follow?screen_name=v_avenger"><img src="https://img.shields.io/twitter/follow/v_avenger?style=social&logo=twitter" alt="follow on Twitter"></a>
+
+
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> | ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ```
+
 
 # Games
 <!-- alexandresanlim/Badges4-README.md-Profile -->
