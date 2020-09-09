@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Workspace 
 <!-- alexandresanlim/Badges4-README.md-Profile -->
-<img src="https://img.shields.io/badge/apple-macbook%20pro%202019-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/apple-macbook%20pro%2013inch%202019-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white">
 <img src="https://img.shields.io/badge/windows-asus%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">
 
 # 著書
