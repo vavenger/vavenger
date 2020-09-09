@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [💻 HackTheBox](#-hackthebox-)
 - [💻 Workspace Spec](#-workspace-spec-)
 - [📚 著書](#-著書-)
+- [📰 掲載記事](#-掲載記事-)
 
 
 ## 👨👩 Social [🔝](#Menu)
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 - 『【イラスト図解満載】情報セキュリティの基礎知識』（共著）, 2017/02/23, 技術評論社
 - 『Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携』（共著）, 2015/04/30, リックテレコム
 
-# 掲載記事
+## 📰 掲載記事 [🔝](#Menu)
 - HISYS Journal Vol.34 「[サイバーセキュリティの学びのハードルを下げたい - 林 憲明 インタビュー](https://www.shield.ne.jp/ssrc/contents/doc/SSRC-HJ-201910.pdf)」, 2019/10/03
 - ScanNetSecurity 『[アナログゲームで体験するサイバーセキュリティ模擬訓練 ～ インシデント対応ボードゲーム金融版ワークショップレポート](https://scan.netsecurity.ne.jp/article/2019/01/15/41831.html)』, 2019/01/15
 - 毎日新聞 『[サイバー防犯：２２０人学ぶ　専門家が講演　宇都宮で県警　／栃木 - 毎日新聞](https://mainichi.jp/articles/20180224/ddl/k09/040/105000c)』, 2018/02/24
