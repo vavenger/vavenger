@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [📚 著書](#-著書-)
 - [📰 掲載記事](#-掲載記事-)
 - [🌏 国際会議](#-国際会議-)
+- [🎤 登壇・投稿履歴 📝](#-登壇・投稿履歴-)
 - [📝 Blog](#-blog-)
 
 ## 👨👩 Social [🔝](#Menu)
@@ -63,7 +64,7 @@ Here are some ideas to get you started:
 - APWG 「[Counter eCrime Operations Summit (CeCOS VIII)](https://www.businesswire.com/news/home/20140122006569/en/APWG-Counter-eCrime-Operations-Summit-CeCOS-VIII)」 - 『Analysis of Advertising for Imitation Distributors in Cyberspace（サイバー空間における模造品販売業者による広告活動）』, 2014/04/09
 - APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
 
-# 登壇・投稿履歴
+## 🎤 登壇・投稿履歴 📝 [🔝](#Menu)
 - 「[サイバーセキュリティシンポジウム道後2020](https://www.sec-dogo.jp/)」 - 『【ナイトセッション】わたしのかんがえたさいきょうのフィッシング対策』, 2020/09/17
 - 「[情報セキュリティワークショップin越後湯沢2019](http://www.anisec.jp/yuzawa/?page_id=1048)」 - 『[サイバー犯罪 捜査・調査に踏み出す「突破力」養成講座 – ゼロをイチにする](http://www.anisec.jp/yuzawa/?page_id=618)』, 2019/10/10
 - さんぽう進学ネット 「[AI（人工知能）・VR/IoT/AR・情報セキュリティ系進路相談会](https://www.sanpou-s.net/search_event/event/181117/)」 - 『セキュリティエンジニアの仕事と求められる人物像』, 2018/11/17
