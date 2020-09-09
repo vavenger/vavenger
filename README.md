@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 - JSSEC 「[スマートフォン セキュリティ アップデート（2014 夏）](https://www.jssec.org/event/140801.html)」 - 『[様々なジャンルにはびこる偽アプリ](http://www.jssec.org/dl/20140801_TrendMicro_Noriaki_HAYASHI.pdf)』, 2014/08/01
 - JNSAメールマガジン 第40号 『[IoT時代における「運行支援プロトコル：ADS-B/AIS」に対するセキュリティ確保の挑戦](https://www.jnsa.org/aboutus/jnsaml/ml-40.html)』, 2014/07/25
 - 「[新潟県サイバーセキュリティフォーラム2014](http://www.cyber.niigata.jp/html/antisocial.html)」(第3回反社会的勢力排除分科会） - 『「オンライン銀行詐欺ツール」を使った新たな詐欺手口』, 2014/07/17
+- ISACA 「[ISACA名古屋支部月例会](https://www.isaca-nagoya.org/)」 - 『[ソフトウェア無線を使った運行支援システムに対するサイバー攻撃の可能性](https://www.isaca-nagoya.org/?q=node/478)』, 2014/03/15
 - JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
 - @IT 「[こうしてWebは改ざんされた](https://www.atmarkit.co.jp/ait/series/1212/)」連載, 2013/06/07 - 2013/11/08
 - JSSEC 「[スマートフォンの安全安心な利用についての取り組みに関するセミナー](https://www.jssec.org/event/20130708.html)」 - 『最新の脅威の動向, Mobile Security Threat Updates』, 2013/07/08
