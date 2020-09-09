@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/noriakihayashi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # Games
+[ ![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
+
 <!-- alexandresanlim/Badges4-README.md-Profile -->
 <img src="https://img.shields.io/badge/Switch-%23E60012.svg?&style=for-the-badge&logo=nintendo%20switch&logoColor=white">
-
-[ ![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
 
 # 著書
 - 『問題を解いて実力をチェック IoTの問題集』（共著）, 2018/06/15, 日経BP
