@@ -93,3 +93,6 @@ Here are some ideas to get you started:
 - 「[第17回サイバー犯罪に関する白浜シンポジウム](https://www.riis.or.jp/symposium/vol.17/index.html)」 - 『[フィッシング、認証情報詐取の実態とその対抗手段](https://www.riis.or.jp/symposium/vol.17/hayashi.pdf)』, 2013/05/24
 - JSSEC 『スマホアプリによる架空請求詐欺容疑者逮捕の経緯と今後の脅威』, 2012/07/10
 - 「[Mobile IT Asia](https://www.jemco.jp/event-sys/time-table/conference.html#mia)」 - 『スマホの安全性、ウソ・ホント！？, True or False? - For Smartphone SECurity』, 2012/03/14
+
+# Blog
+- 「[Trend Micro Security Blog](https://blog.trendmicro.co.jp/)」 - 「[Forward-looking Threat Research 林　憲明](https://blog.trendmicro.co.jp/archives/author/hayashi-san/)」, 主執筆者(2007～2010年)として100本、協力執筆者(2012～2014年) 18本の記事投稿
