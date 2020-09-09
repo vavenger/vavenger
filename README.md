@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 # Workspace 
 <!-- alexandresanlim/Badges4-README.md-Profile -->
 <img src="https://img.shields.io/badge/apple-MacBook%20Pro%202019%2015,2-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white">
-<img src="https://img.shields.io/badge/windows-asus%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/windows-Acer%20Aspire5750G-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">
 
 # 著書
 - 『問題を解いて実力をチェック IoTの問題集』（共著）, 2018/06/15, 日経BP
