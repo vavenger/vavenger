@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 
 # Menu
 - [👨 Social](#-social-)
-- [📝 Blog](#-blog-)
-- [💻 HackTheBox](#-hackthebox-)
 - [💻 Workspace Spec](#-workspace-spec-)
 - [📚 著書](#-著書-)
 - [📰 掲載記事](#-掲載記事-)
 - [🌏 国際会議](#-国際会議-)
-
+- [📝 Blog](#-blog-)
 
 ## 👨👩 Social [🔝](#Menu)
 <!-- Qiitaコントリビューション数をGitHubのプロフィールに貼ってドヤれるサービスを作った, https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50 -->
@@ -30,7 +28,6 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/intent/follow?screen_name=v_avenger"><img src="https://img.shields.io/twitter/follow/v_avenger?style=social&logo=twitter" alt="follow on Twitter"></a>
 <a href="https://www.linkedin.com/in/noriakihayashi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## HackTheBox [🔝](#Menu)
 [![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
 
 ## 💻 Workspace Spec [🔝](#Menu)
