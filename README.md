@@ -69,6 +69,8 @@ Here are some ideas to get you started:
 - 「[情報セキュリティワークショップin越後湯沢2019](http://www.anisec.jp/yuzawa/?page_id=1048)」 - 『[サイバー犯罪 捜査・調査に踏み出す「突破力」養成講座 – ゼロをイチにする](http://www.anisec.jp/yuzawa/?page_id=618)』, 2019/10/10
 - さんぽう進学ネット 「[AI（人工知能）・VR/IoT/AR・情報セキュリティ系進路相談会](https://www.sanpou-s.net/search_event/event/181117/)」 - 『セキュリティエンジニアの仕事と求められる人物像』, 2018/11/17
 - 埼玉県警察本部 「[理系向け] サイバーセキュリティキャリア研究セミナー」 - 『セキュリティエンジニアの仕事と求められる人物像』, 2018/11/04
+- フィッシング対策協議会 会員向け勉強会 - 『断片情報から知見を見出す - カード情報を格納する不正サーバの監視と分析』, 2018/10/10
+- 埼玉県警察本部 「[理系向け] サイバーセキュリティキャリア研究セミナー」 - 『セキュリティエンジニアの仕事と求められる人物像』, 2018/11/04
 - APWG 「[巧妙化・国際化するオンライン詐欺やサイバー犯罪にどう対応していくのか？](https://apwg-201807.peatix.com/)」 - 『[【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで](https://www.slideshare.net/NoriakiHayashi/live-230725152)』, 2018/07/02
 - JNSA 「[教育部会ゲーム教育WG](https://www.jnsa.org/edu/secgame/)」 - 『[セキュリティ専門家人狼 - 【クイックスタートガイド 第2版】](https://www.jnsa.org/edu/secgame/secwerewolf/data/SECWEREWOLF_quickstart_guide_v20.pdf)』, 2018/03/09
 - JNSA 「[JNSAゲーム教育WG セキュリティゲーム体験イベント](https://www.jnsa.org/seminar/2018/0308/index.html)」 - 『「セキュリティ専門家人狼」ゲーム体験』, 2018/03/08
