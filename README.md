@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 ## 📰 掲載記事 [🔝](#Menu)
 - HISYS Journal Vol.34 「[サイバーセキュリティの学びのハードルを下げたい - 林 憲明 インタビュー](https://www.shield.ne.jp/ssrc/contents/doc/SSRC-HJ-201910.pdf)」, 2019/10/03
 - ScanNetSecurity 『[アナログゲームで体験するサイバーセキュリティ模擬訓練 ～ インシデント対応ボードゲーム金融版ワークショップレポート](https://scan.netsecurity.ne.jp/article/2019/01/15/41831.html)』, 2019/01/15
-- 『Web担当者向け セキュリティが破られたときに何をすべきか』 ,2019/12/17
 - 毎日新聞 『[サイバー防犯：２２０人学ぶ　専門家が講演　宇都宮で県警　／栃木 - 毎日新聞](https://mainichi.jp/articles/20180224/ddl/k09/040/105000c)』, 2018/02/24
 - TBS 「[スパニチ！！ 日本を今一度洗濯し候。](https://www.tbs.co.jp/program/spanichi_20150614.html)」 - 『テーマ：ネット社会の闇』, 2015/06/14
 - ScanNetSecurity 『[[レポート]編集長注目カンファレンス「APWG CeCOS VIII in 香港」](https://scan.netsecurity.ne.jp/article/2014/04/30/34088.html)』, 2014/04/30
@@ -67,11 +66,11 @@ Here are some ideas to get you started:
 
 ## 🎤 登壇投稿 [🔝](#Menu)
 - 「[サイバーセキュリティシンポジウム道後2020](https://www.sec-dogo.jp/)」 - 『【ナイトセッション】わたしのかんがえたさいきょうのフィッシング対策』, 2020/09/17
+- 『Web担当者向け セキュリティが破られたときに何をすべきか』 ,2019/12/17
 - 「[情報セキュリティワークショップin越後湯沢2019](http://www.anisec.jp/yuzawa/?page_id=1048)」 - 『[サイバー犯罪 捜査・調査に踏み出す「突破力」養成講座 – ゼロをイチにする](http://www.anisec.jp/yuzawa/?page_id=618)』, 2019/10/10
 - さんぽう進学ネット 「[AI（人工知能）・VR/IoT/AR・情報セキュリティ系進路相談会](https://www.sanpou-s.net/search_event/event/181117/)」 - 『セキュリティエンジニアの仕事と求められる人物像』, 2018/11/17
-- 埼玉県警察本部 「[理系向け] サイバーセキュリティキャリア研究セミナー」 - 『セキュリティエンジニアの仕事と求められる人物像』, 2018/11/04
+- 埼玉県警察本部 「[[理系向け] サイバーセキュリティキャリア研究セミナー](http://www.saitama-u.ac.jp/student_archives/2018-0905-1055-9.html)」 - 『セキュリティエンジニアの仕事と求められる人物像』, 2018/11/04
 - フィッシング対策協議会 会員向け勉強会 - 『断片情報から知見を見出す - カード情報を格納する不正サーバの監視と分析』, 2018/10/10
-- 埼玉県警察本部 「[理系向け] サイバーセキュリティキャリア研究セミナー」 - 『セキュリティエンジニアの仕事と求められる人物像』, 2018/11/04
 - APWG 「[巧妙化・国際化するオンライン詐欺やサイバー犯罪にどう対応していくのか？](https://apwg-201807.peatix.com/)」 - 『[【LIVE】 すぐ貢献できる！偽サイトの探索から通報まで](https://www.slideshare.net/NoriakiHayashi/live-230725152)』, 2018/07/02
 - JNSA 「[教育部会ゲーム教育WG](https://www.jnsa.org/edu/secgame/)」 - 『[セキュリティ専門家人狼 - 【クイックスタートガイド 第2版】](https://www.jnsa.org/edu/secgame/secwerewolf/data/SECWEREWOLF_quickstart_guide_v20.pdf)』, 2018/03/09
 - JNSA 「[JNSAゲーム教育WG セキュリティゲーム体験イベント](https://www.jnsa.org/seminar/2018/0308/index.html)」 - 『「セキュリティ専門家人狼」ゲーム体験』, 2018/03/08
