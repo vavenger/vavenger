@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/noriakihayashi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
-<a href="https://tryhackme.com/p/vavenger"><img src="https://tryhackme-badges.s3.amazonaws.com/vavenger.png" alt="TryHackMe"></a>
 
 ## 💻 Workspace Spec [🔝](#Menu)
 <!-- alexandresanlim/Badges4-README.md-Profile -->
