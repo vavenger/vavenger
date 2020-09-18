@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/intent/follow?screen_name=v_avenger"><img src="https://img.shields.io/twitter/follow/v_avenger?style=social&logo=twitter" alt="follow on Twitter"></a>
 <a href="https://www.linkedin.com/in/noriakihayashi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
+[![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656) <img src="https://tryhackme-badges.s3.amazonaws.com/vavenger.png" alt="TryHackMe">
 
 ## 💻 Workspace Spec [🔝](#Menu)
 <!-- alexandresanlim/Badges4-README.md-Profile -->
