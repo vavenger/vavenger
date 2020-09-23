@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <!-- Qiitaコントリビューション数をGitHubのプロフィールに貼ってドヤれるサービスを作った, https://qiita.com/mikkame/items/f2c60d9caf8a8e38ec50 -->
  [![My Qiita posts](https://qiita-badge.apiapi.app/s/v_avenger/posts.svg)](http://qiita.com/v_avenger) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/v_avenger/contributions.svg)](http://qiita.com/v_avenger) [![My Qiita followers](https://qiita-badge.apiapi.app/s/v_avenger/followers.svg)](http://qiita.com/v_avenger)
 
-<img src="https://img.shields.io/twitter/follow/v_avenger?style=social&logo=twitter" alt="follow on Twitter">
+<img src="https://img.shields.io/twitter/follow/v_avenger?style=social&logo=twitter" alt="follow on Twitter" />
 <a href="https://www.linkedin.com/in/noriakihayashi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## 💻 Workspace Spec [🔝](#Menu)
 <!-- alexandresanlim/Badges4-README.md-Profile -->
 <img src="https://img.shields.io/badge/apple-MacBook%20Pro%202019%2015,2-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
-<a href="https://www.acer.com/ac/ja/JP/content/support-product/3474"><img src="https://img.shields.io/badge/windows-Acer%20Aspire5750G-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"></a>
+<img src="https://img.shields.io/badge/windows-Acer%20Aspire5750G-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 
 ## 📚 著書 [🔝](#Menu)
 - 『問題を解いて実力をチェック IoTの問題集』（共著）, 2018/06/15, 日経BP
