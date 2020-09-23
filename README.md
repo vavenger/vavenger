@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 💻 Workspace Spec [🔝](#Menu)
 <!-- alexandresanlim/Badges4-README.md-Profile -->
-<img src="https://img.shields.io/badge/apple-MacBook%20Pro%202019%2015,2-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white">
+<img src="https://img.shields.io/badge/apple-MacBook%20Pro%202019%2015,2-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 <a href="https://www.acer.com/ac/ja/JP/content/support-product/3474"><img src="https://img.shields.io/badge/windows-Acer%20Aspire5750G-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"></a>
 
 ## 📚 著書 [🔝](#Menu)
