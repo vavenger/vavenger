@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 - HISYS Journal Vol.34 「[サイバーセキュリティの学びのハードルを下げたい - 林 憲明 インタビュー](https://www.shield.ne.jp/ssrc/contents/doc/SSRC-HJ-201910.pdf)」, 2019/10/03
 - ScanNetSecurity 『[アナログゲームで体験するサイバーセキュリティ模擬訓練 ～ インシデント対応ボードゲーム金融版ワークショップレポート](https://scan.netsecurity.ne.jp/article/2019/01/15/41831.html)』, 2019/01/15
 - 毎日新聞 『[サイバー防犯：２２０人学ぶ　専門家が講演　宇都宮で県警　／栃木 - 毎日新聞](https://mainichi.jp/articles/20180224/ddl/k09/040/105000c)』, 2018/02/24
+- ＠IT 『[木更津高専の学生らがCyberbit Rangeにチャレンジ： セキュリティに関する知識とスキルに「心得」を演習でプラス](https://www.atmarkit.co.jp/ait/articles/1710/10/news016.html)』, 2017/10/16
 - TBS 「[スパニチ！！ 日本を今一度洗濯し候。](https://www.tbs.co.jp/program/spanichi_20150614.html)」 - 『テーマ：ネット社会の闇』, 2015/06/14
 - ScanNetSecurity 『[[レポート]編集長注目カンファレンス「APWG CeCOS VIII in 香港」](https://scan.netsecurity.ne.jp/article/2014/04/30/34088.html)』, 2014/04/30
 - 日経産業新聞 『スマホが危ない 30秒で誰でも攻撃者』, 2014/01/15
