@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
 
-[![TryHackMe](https://tryhackme.com/badge/14901)](https://tryhackme.com/badge/14901)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/vavenger.png)](https://tryhackme.com/p/vavenger)
 
 ## 💻 Workspace Spec [🔝](#Menu)
 <!-- alexandresanlim/Badges4-README.md-Profile -->
