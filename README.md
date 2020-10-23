@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 [![v_avenger](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
 
+[![TryHackMe](https://tryhackme.com/badge/14901)](https://tryhackme.com/badge/14901)
+
 ## 💻 Workspace Spec [🔝](#Menu)
 <!-- alexandresanlim/Badges4-README.md-Profile -->
 <img src="https://img.shields.io/badge/apple-MacBook%20Pro%202019%2015,2-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
