@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![HackTheBox](https://www.hackthebox.eu/badge/image/174656)](https://app.hackthebox.eu/profile/174656)
 
 - [Hack The Box, v avenger [Pro Hacker]](https://app.hackthebox.eu/profile/174656)
-- [TryHackMe, vavenger [0x8][H4CK3R]](https://tryhackme.com/p/vavenger)
+- [TryHackMe, vavenger [0x9][0MN1]](https://tryhackme.com/p/vavenger)
 
 ## 💻 Workspace Spec [🔝](#Menu)
 <!-- alexandresanlim/Badges4-README.md-Profile -->
