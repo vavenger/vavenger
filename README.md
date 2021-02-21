@@ -68,7 +68,8 @@ Here are some ideas to get you started:
 - APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
 
 ## 🎤 登壇投稿 [🔝](#Menu)
-- フィッシング対策協議会 「[第1回フィッシング対策勉強会](https://www.antiphishing.jp/news/event/antiphishing_1st_studygroup.html)」 - 『ウェブ担当者向けセキュリティが破られたときに何をすべきか』, 2021/02/05
+- 総務省 近畿総合通信局 「[テレワーク時代の情報セキュリティセミナー ～サイバー攻撃の実際と対策～](https://www.soumu.go.jp/soutsu/kinki/01sotsu07_01001757.html)」 - 『広がるテレワーク環境に必要なセキュリティ -対策のポイントと攻撃の実際-』, 2021/03/02
+- フィッシング対策協議会 「[第1回フィッシング対策勉強会](https://www.antiphishing.jp/news/event/antiphishing_1st_studygroup.html)」 - 『[ウェブ担当者向けセキュリティが破られたときに何をすべきか](https://www.antiphishing.jp/news/apc_1st_studygroup_STC.pdf)』, 2021/02/05
 - 「[AVTOKYO2020](https://www.avtokyo.org/2020/event)」 - 『Ask Me Anything with Council of Anti-Phishing Japan's Steering Committee Member』, 2020/10/31
 - 「[サイバーセキュリティシンポジウム道後2020](https://www.sec-dogo.jp/)」 - 『【ナイトセッション】わたしのかんがえたさいきょうのフィッシング対策』, 2020/09/17
 - 『Web担当者向け セキュリティが破られたときに何をすべきか』 ,2019/12/17
