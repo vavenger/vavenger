@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 - 『Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携』（共著）, 2015/04/30, リックテレコム
 
 ## 📰 掲載記事 [🔝](#Menu)
+- ScanNetSecurity 『[フィッシング対策勉強会の講演資料公開、「インシデント対応」「ログ解析」「ドメイン乗っ取り」テーマに実用性高い内容](https://scan.netsecurity.ne.jp/article/2021/02/10/45172.html)』, 2021/02/10
 - HISYS Journal Vol.34 「[サイバーセキュリティの学びのハードルを下げたい - 林 憲明 インタビュー](https://www.shield.ne.jp/ssrc/contents/doc/SSRC-HJ-201910.pdf)」, 2019/10/03
 - ScanNetSecurity 『[アナログゲームで体験するサイバーセキュリティ模擬訓練 ～ インシデント対応ボードゲーム金融版ワークショップレポート](https://scan.netsecurity.ne.jp/article/2019/01/15/41831.html)』, 2019/01/15
 - 毎日新聞 『[サイバー防犯：２２０人学ぶ　専門家が講演　宇都宮で県警　／栃木 - 毎日新聞](https://mainichi.jp/articles/20180224/ddl/k09/040/105000c)』, 2018/02/24
