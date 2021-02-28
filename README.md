@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ## 🎤 登壇投稿 [🔝](#Menu)
 - 総務省 近畿総合通信局 「[テレワーク時代の情報セキュリティセミナー ～サイバー攻撃の実際と対策～](https://www.soumu.go.jp/soutsu/kinki/01sotsu07_01001757.html)」 - 『広がるテレワーク環境に必要なセキュリティ -対策のポイントと攻撃の実際-』, 2021/03/02
-一般社団法人セキュリティ対策推進協議会（SPREAD）「みんなのセキュリティコラム」 - 『[最善慣行を関心の無い層へ伝えるための３つの手法](https://www.spread.or.jp/minnano_column/best_practice/)』, 2021/02/24
+- 一般社団法人セキュリティ対策推進協議会（SPREAD）「みんなのセキュリティコラム」 - 『[最善慣行を関心の無い層へ伝えるための３つの手法](https://www.spread.or.jp/minnano_column/best_practice/)』, 2021/02/24
 - フィッシング対策協議会 「[第1回フィッシング対策勉強会](https://www.antiphishing.jp/news/event/antiphishing_1st_studygroup.html)」 - 『[ウェブ担当者向けセキュリティが破られたときに何をすべきか](https://www.antiphishing.jp/news/apc_1st_studygroup_STC.pdf)』, 2021/02/05
 - 「[AVTOKYO2020](https://www.avtokyo.org/2020/event)」 - 『Ask Me Anything with Council of Anti-Phishing Japan's Steering Committee Member』, 2020/10/31
 - 「[サイバーセキュリティシンポジウム道後2020](https://www.sec-dogo.jp/)」 - 『【ナイトセッション】わたしのかんがえたさいきょうのフィッシング対策』, 2020/09/17
