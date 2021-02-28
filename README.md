@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 -  「[新潟県サイバーセキュリティフォーラム2015](http://www.cyber.niigata.jp/html/antisocial.html)」(第4回反社会的勢力排除分科会） - 『[オンライン詐欺の温床 犯罪ツールと割れ窓サイトに関する実態報告](http://www.cyber.niigata.jp/pdf/antisocial/forum2015_2.pdf)』, 2015/09/10
 - 「サイバーセキュリティセミナーin 山口 2015」 - 『[模擬戦で標的型サイバー攻撃を知る「正義のハッカー」を育成する方法](https://www.slideshare.net/NoriakiHayashi/advanced-persistent-threat-challenge-v-34-quickstart-guide-japanese)』, 2015/09/04
 - 消費者庁 「[第17回インターネット消費者取引連絡会](https://www.caa.go.jp/policies/policy/consumer_policy/policy_coordination/internet_committee/)」 - 『[インターネット通販詐欺の事例と対策](https://www.caa.go.jp/policies/policy/consumer_policy/policy_coordination/internet_committee/pdf/150612shiryo4.pdf)』, 2015/06/12
+- 一般社団法人セキュリティ対策推進協議会（SPREAD）『[いまなお深刻なフィッシング詐欺被害](https://www.spread.or.jp/column/2015/04/22/2947/)』, 2015/04/22
 - JSSEC 「[スマートフォン セキュリティ・シンポジウム 2015](https://www.jssec.org/event/seminer20150226.html)」 - 『[スマートフォン セキュリティ シンポジウム2015 ビデオアーカイブ Vol.4](https://www.youtube.com/watch?v=ZIdVTU0cTxE)』, 2015/02/26
 - JSSEC 「[スマートフォン セキュリティ・シンポジウム 2015](https://www.jssec.org/event/seminer20150226.html)」 - 『[今年のモバイルインシデントへの備え・2014年事案から紐解く](https://www.jssec.org/dl/20150226_Noriaki_Hayashi.pdf)』, 2015/02/26
 - 愛媛県ネットワーク防犯連絡協議会 「[2014年度 第1回勉強会](https://www.iyo.ne.jp/ensa/oa-07/oa-07-12/oa-07-12-01/index.html)」 - 『サイバー探偵事始, 不正プログラムが残した「Digital Footprint」を辿る（緊急時（不正アクセスやウイルス感染）の対処要領）』, 2014/12/09
