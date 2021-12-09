@@ -70,7 +70,8 @@ Here are some ideas to get you started:
 - ITmedia Mobile 『[不正アプリは「Google Play」の中にアリ　トレンドマイクロがサイバー犯罪の最新手口を解説](https://www.itmedia.co.jp/mobile/articles/1312/03/news127.html)』, 2013/12/03
 - @IT 『[1クリックで誰でも作成可能、進化する「スマホ不正](https://www.atmarkit.co.jp/ait/articles/1312/03/news110.html)』, 2013/12/03
 - ケータイ Watch 『[作成はわずか30秒、大量生産される不正アプリの実態](https://k-tai.watch.impress.co.jp/docs/news/626181.html)』, 2013/12/03 
-- ScanNetSecurity 『[[レポート] サイバー犯罪対策国際カンファレンス APWG CeCOS VII in ブエノスアイレス](https://scan.netsecurity.ne.jp/article/2013/04/25/31513.html)』, 2013/04/25 
+- ScanNetSecurity 『[[レポート] サイバー犯罪対策国際カンファレンス APWG CeCOS VII in ブエノスアイレス](https://scan.netsecurity.ne.jp/article/2013/04/25/31513.html)』, 2013/04/25
+- フィッシング対策協議会『[第15回：脅威のレイヤが上位にシフトし対策が困難に―トレンドマイクロ](https://www.antiphishing.jp/news/interview/_15.html)』, 2011/02/07
 
 ## 🌏 国際会議 [🔝](#Menu)
 - APWG 「[VIENNA SYMPOSIUM ON GLOBAL CYBERSECURITY AWARENESS 2017](https://apwg.eu/vienna-symposium-cybersecurity-awareness-2017/)」 - 『Status Report on the Implementation of Cybersecurity Awareness』, 2017/08/30
