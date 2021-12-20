@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - [Wantedly Profile](https://www.wantedly.com/id/hayashi_noriaki)
 
 - [Hack The Box, v avenger [Pro Hacker]](https://app.hackthebox.eu/profile/174656)
-- [TryHackMe, vavenger [0x9][0MN1]](https://tryhackme.com/p/vavenger)
+- [TryHackMe, vavenger [0xA][WIZARD]](https://tryhackme.com/p/vavenger)
 
 ## 💻 Workspace Spec [🔝](#Menu)
 <!-- alexandresanlim/Badges4-README.md-Profile -->
