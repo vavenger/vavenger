@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/twitter/follow/v_avenger?style=social&logo=twitter" alt="follow on Twitter" /> <a href="https://www.linkedin.com/in/noriakihayashi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 - researchmap会員ID: [R000032018](https://researchmap.jp/noriaki_hayashi)
+- [Wantedly Profile](https://www.wantedly.com/id/hayashi_noriaki)
 
 - [Hack The Box, v avenger [Pro Hacker]](https://app.hackthebox.eu/profile/174656)
 - [TryHackMe, vavenger [0x9][0MN1]](https://tryhackme.com/p/vavenger)
