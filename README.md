@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - [👨 Social](#-social-)
 - [💻 Workspace Spec](#-workspace-spec-)
 - [📚 著書](#-著書-)
+- [👨‍🏫 講師](#-講師-)
 - [📰 掲載記事](#-掲載記事-)
 - [🌏 国際会議](#-国際会議-)
 - [🎤 登壇投稿](#-登壇投稿-)
@@ -47,6 +48,10 @@ Here are some ideas to get you started:
 - 『IoTの全てを網羅した決定版 IoTの教科書』（共著）, 2017/08/11, 日経BP
 - 『【イラスト図解満載】情報セキュリティの基礎知識』（共著）, 2017/02/23, 技術評論社
 - 『Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携』（共著）, 2015/04/30, リックテレコム
+
+## 🏫 講師 [🔝](#Menu)
+- 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とWordPressの堅牢化](https://www.udemy.com/course/boot2root-wordpress/?referralCode=B7E3E12E34491B0C9F3E)』, 2021/10/05, Udemy
+- 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とローカル特権昇格](https://www.udemy.com/course/boot2root-easy/?referralCode=F15F0137836B60779BB6)』, 2021/06/23, Udemy
 
 ## 📰 掲載記事 [🔝](#Menu)
 - NHK総合（高知）「[こうちいちばん](https://www4.nhk.or.jp/P2797/)」 - 『[不足続くIT人材育成 高専生に注目](https://www4.nhk.or.jp/P2797/x/2021-12-07/21/49364/8242469/)』, 2021/12/07
