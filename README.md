@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - [👨 Social](#-social-)
 - [💻 Workspace Spec](#-workspace-spec-)
 - [📚 著書](#-著書-)
-- [👨‍🏫 講師](#-講師-)
+- [👨‍🏫 Udemy講師](#-Udemy講師-)
 - [📰 掲載記事](#-掲載記事-)
 - [🌏 国際会議](#-国際会議-)
 - [🎤 登壇投稿](#-登壇投稿-)
@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/windows-Acer%20Aspire5750G-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 
 ## 📚 著書 [🔝](#Menu)
-- 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とWordPressの堅牢化](https://www.udemy.com/course/boot2root-wordpress/?referralCode=B7E3E12E34491B0C9F3E)』, 2021/10/05, Udemy
-- 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とローカル特権昇格](https://www.udemy.com/course/boot2root-easy/?referralCode=F15F0137836B60779BB6)』, 2021/06/23, Udemy
 - 『フィッシング詐欺のビジネスプロセス分類』（共著）, 2021/03/15, 情報処理学会 DPS 研究会 - 第186回DPS研究発表会
 - 『問題を解いて実力をチェック IoTの問題集』（共著）, 2018/06/15, 日経BP
 - 『ドメインの特徴によるフィッシング詐欺サイト探索の可能性』（共著）, 2018/03/13, 情報処理学会第80回全国大会
@@ -49,7 +47,7 @@ Here are some ideas to get you started:
 - 『【イラスト図解満載】情報セキュリティの基礎知識』（共著）, 2017/02/23, 技術評論社
 - 『Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携』（共著）, 2015/04/30, リックテレコム
 
-## 🏫 講師 [🔝](#Menu)
+## 🏫 Udemy講師 [🔝](#Menu)
 - 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とWordPressの堅牢化](https://www.udemy.com/course/boot2root-wordpress/?referralCode=B7E3E12E34491B0C9F3E)』, 2021/10/05, Udemy
 - 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とローカル特権昇格](https://www.udemy.com/course/boot2root-easy/?referralCode=F15F0137836B60779BB6)』, 2021/06/23, Udemy
 
