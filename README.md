@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 - 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とローカル特権昇格](https://www.udemy.com/course/boot2root-easy/?referralCode=F15F0137836B60779BB6)』, 2021/06/23, Udemy
 
 ## 📰 掲載記事 [🔝](#Menu)
+- AdverTimes.（アドタイ）『[知らぬ間にブランド毀損　フィッシング急増、21年は52万件](https://www.advertimes.com/20220221/article377414/)』, 2022/02/21
+- Impress Watch『[「パスワードレス」認証を推進するヤフー](https://www.watch.impress.co.jp/docs/news/1389863.html)』, 2022/02/21
 - NHK総合「[NHK NEWS おはよう日本](https://www.nhk.jp/p/ohayou/)」 - 『[”副業先生”でセキュリティー技術者の育成を・高知 ](https://plus.nhk.jp/watch/st/g1_2022010530336)』, 2022/01/05
 - NHK総合（高知）「[こうちいちばん](https://www4.nhk.or.jp/P2797/)」 - 『[不足続くIT人材育成 高専生に注目](https://www4.nhk.or.jp/P2797/x/2021-12-07/21/49364/8242469/)』, 2021/12/07
 - 日刊工業新聞『[ビズリーチと高専機構、「副業先生」の就任式開く](https://www.nikkan.co.jp/articles/view/00617258?)』, 2021/11/3
