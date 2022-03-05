@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 - 『Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携』（共著）, 2015/04/30, リックテレコム
 
 ## 🏫 Udemy講師 [🔝](#Menu)
+- 『[【はじめてのバグバウンティ】ホームネットワークデバイスで学ぶファームウェア解析と組み込みLinuxのセキュリティ](https://www.udemy.com/course/bugbounty-firmware/?referralCode=64469FD1B965E541142E)』, 2022/03/02
 - 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とWordPressの堅牢化](https://www.udemy.com/course/boot2root-wordpress/?referralCode=B7E3E12E34491B0C9F3E)』, 2021/10/05, Udemy
 - 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とローカル特権昇格](https://www.udemy.com/course/boot2root-easy/?referralCode=F15F0137836B60779BB6)』, 2021/06/23, Udemy
 
