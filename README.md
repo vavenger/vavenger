@@ -91,6 +91,7 @@ Here are some ideas to get you started:
 - APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
 
 ## 🎤 登壇投稿 [🔝](#Menu)
+- 「第1回 スミッシング対策技術勉強会」 - 『[コマンドラインで分析するフィッシングデータセット（初級編）](https://www.docswell.com/s/v_avenger/KPX88Z-Anti-SMiShing-Study-Group_one-liner-phishing-analysis)』, 2022/04/20
 - 「[AVTOKYO2021](https://www.avtokyo.org/2021/event)」 - 『ライブでパブコメ！？「詐欺サイトに関する机上演習」を完成させよ。』, 2021/10/23
 - 情報処理学会 「[第186回 マルチメディア通信と分散処理研究発表会](http://www.ipsj.or.jp/sig-reports/DPS/DPS186.html)」 - 『[フィッシング詐欺のビジネスプロセス分類](https://www.antiphishing.jp/news/info/collabo_20210316.html)』, 2021/03/15
 - 総務省 近畿総合通信局 「[テレワーク時代の情報セキュリティセミナー ～サイバー攻撃の実際と対策～](https://www.soumu.go.jp/soutsu/kinki/01sotsu07_01001757.html)」 - 『広がるテレワーク環境に必要なセキュリティ -対策のポイントと攻撃の実際-』, 2021/03/02
