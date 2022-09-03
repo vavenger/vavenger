@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 
 ## 🏫 Udemy講師 [🔝](#Menu)
 - 『[【はじめてのバグバウンティ】ホームネットワークデバイスで学ぶファームウェア解析と組み込みLinuxのセキュリティ](https://www.udemy.com/course/bugbounty-firmware/?referralCode=64469FD1B965E541142E)』, 2022/03/02
-- 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とWordPressの堅牢化](https://www.udemy.com/course/boot2root-wordpress/?referralCode=B7E3E12E34491B0C9F3E)』, 2021/10/05, Udemy
-- 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とローカル特権昇格](https://www.udemy.com/course/boot2root-easy/?referralCode=F15F0137836B60779BB6)』, 2021/06/23, Udemy
+- 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とWordPressの堅牢化](https://www.udemy.com/course/boot2root-wordpress/?referralCode=B7E3E12E34491B0C9F3E)』, 2021/10/05
+- 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とローカル特権昇格](https://www.udemy.com/course/boot2root-easy/?referralCode=F15F0137836B60779BB6)』, 2021/06/23
 
 ## 📰 掲載記事 [🔝](#Menu)
 - Qiita Zine 『[エンジニアのキャリアと生存戦略を考える。日立製作所主催「Social Tech Talk #03」イベントレポート](https://zine.qiita.com/event/202209-hitachi/)』, 2022/09/02
@@ -69,13 +69,13 @@ Here are some ideas to get you started:
 - EdTechZine（エドテックジン）『[高専機構とビズリーチによる高専機構初の「副業先生」、4名が高知工業高等専門学校に着任](https://nordot.app/825583560778694656)』, 2021/10/26
 - 先端教育ニュース『[高専機構初の「副業先生」就任式開催　ITプロ人材4名が高知高専の教壇に](https://www.sentankyo.jp/articles/c661aa87-e73d-4971-aff2-89ea737427b0)』, 2021/10/26
 - ICT教育ニュース『[ビズリーチ、応募したセキュリティ人材4人が高知高専の「副業先生」に就任](https://ict-enews.net/2021/10/26bizreach/)』, 2021/10/26
-- TBS「[ひるおび！](https://www.tbs.co.jp/hiru-obi/)」 - 『ビズリーチ 高専機構初の「副業先生」就任式開催 サイバーセキュリティ人材育成に新たな一手！』, 2021/10/26
+- TBSテレビ「[ひるおび！](https://www.tbs.co.jp/hiru-obi/)」 - 『ビズリーチ 高専機構初の「副業先生」就任式開催 サイバーセキュリティ人材育成に新たな一手！』, 2021/10/26
 - ScanNetSecurity 『[フィッシング対策勉強会の講演資料公開、「インシデント対応」「ログ解析」「ドメイン乗っ取り」テーマに実用性高い内容](https://scan.netsecurity.ne.jp/article/2021/02/10/45172.html)』, 2021/02/10
 - HISYS Journal Vol.34 「[サイバーセキュリティの学びのハードルを下げたい - 林 憲明 インタビュー](https://www.shield.ne.jp/ssrc/document/doc/SSRC-HJ-201910.pdf)」, 2019/10/03
 - ScanNetSecurity 『[アナログゲームで体験するサイバーセキュリティ模擬訓練 ～ インシデント対応ボードゲーム金融版ワークショップレポート](https://scan.netsecurity.ne.jp/article/2019/01/15/41831.html)』, 2019/01/15
 - 毎日新聞 『[サイバー防犯：２２０人学ぶ　専門家が講演　宇都宮で県警　／栃木 - 毎日新聞](https://mainichi.jp/articles/20180224/ddl/k09/040/105000c)』, 2018/02/24
 - ＠IT 『[木更津高専の学生らがCyberbit Rangeにチャレンジ： セキュリティに関する知識とスキルに「心得」を演習でプラス](https://www.atmarkit.co.jp/ait/articles/1710/10/news016.html)』, 2017/10/16
-- TBS 「[スパニチ！！ 日本を今一度洗濯し候。](https://www.tbs.co.jp/program/spanichi_20150614.html)」 - 『テーマ：ネット社会の闇』, 2015/06/14
+- TBSテレビ 「[スパニチ！！ 日本を今一度洗濯し候。](https://www.tbs.co.jp/program/spanichi_20150614.html)」 - 『テーマ：ネット社会の闇』, 2015/06/14
 - ScanNetSecurity 『[[レポート]編集長注目カンファレンス「APWG CeCOS VIII in 香港」](https://scan.netsecurity.ne.jp/article/2014/04/30/34088.html)』, 2014/04/30
 - 日経産業新聞 『スマホが危ない 30秒で誰でも攻撃者』, 2014/01/15
 - 電経新聞 『スマホを狙ったサイバー攻撃が拡大 トレンドマイクロが犯罪手法を解説 不正アプリが巧妙化』, 2013/12/09
