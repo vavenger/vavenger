@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とローカル特権昇格](https://www.udemy.com/course/boot2root-easy/?referralCode=F15F0137836B60779BB6)』, 2021/06/23, Udemy
 
 ## 📰 掲載記事 [🔝](#Menu)
-- Qiita Zine 「[エンジニアのキャリアと生存戦略を考える。日立製作所主催「Social Tech Talk #03」イベントレポート](https://zine.qiita.com/event/202209-hitachi/)」, 2022/09/02
+- Qiita Zine 『[エンジニアのキャリアと生存戦略を考える。日立製作所主催「Social Tech Talk #03」イベントレポート](https://zine.qiita.com/event/202209-hitachi/)』, 2022/09/02
 - 朝日新聞『[「副業」で教壇に　需要高まる実務家教員　文科省、マッチングは不発](https://www.asahi.com/articles/ASQ8R5Q7LQ86UTIL01B.html)』, 2022/08/30
 - 日本経済新聞『[産学でセキュリティー人材育成　ビズリーチは高専に講師](https://www.nikkei.com/article/DGXZQOUC019DB0R01C21A1000000/)』, 2022/06/03
 - 東洋経済education×ICT『[第一線で活躍する社会人を｢副業先生｣として起用した学校の本音](https://toyokeizai.net/articles/-/535068)』, 2022/03/07
