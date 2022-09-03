@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 - 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とローカル特権昇格](https://www.udemy.com/course/boot2root-easy/?referralCode=F15F0137836B60779BB6)』, 2021/06/23, Udemy
 
 ## 📰 掲載記事 [🔝](#Menu)
+- Qiita Zine 「[エンジニアのキャリアと生存戦略を考える。日立製作所主催「Social Tech Talk #03」イベントレポート](https://zine.qiita.com/event/202209-hitachi/)」, 2022/09/02
 - 朝日新聞『[「副業」で教壇に　需要高まる実務家教員　文科省、マッチングは不発](https://www.asahi.com/articles/ASQ8R5Q7LQ86UTIL01B.html)』, 2022/08/30
 - 日本経済新聞『[産学でセキュリティー人材育成　ビズリーチは高専に講師](https://www.nikkei.com/article/DGXZQOUC019DB0R01C21A1000000/)』, 2022/06/03
 - 東洋経済education×ICT『[第一線で活躍する社会人を｢副業先生｣として起用した学校の本音](https://toyokeizai.net/articles/-/535068)』, 2022/03/07
@@ -93,7 +94,6 @@ Here are some ideas to get you started:
 - APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
 
 ## 🎤 登壇投稿 [🔝](#Menu)
-- Qiita Zine 「[エンジニアのキャリアと生存戦略を考える。日立製作所主催「Social Tech Talk #03」イベントレポート](https://zine.qiita.com/event/202209-hitachi/)」, 2022/09/02
 - Qiita×HITACHI主催 「[Social Tech Talk #03](https://corp.qiita.com/releases/2022/05/hitachi-qiita-event-202206/)」 - 『[技術トークセッション：セキュリティ人材のキャリアトーク](https://increments.connpass.com/event/245693/)』, 2022/06/15
 - 「第1回 スミッシング対策技術勉強会」 - 『[コマンドラインで分析するフィッシングデータセット（初級編）](https://www.docswell.com/s/v_avenger/KPX88Z-Anti-SMiShing-Study-Group_one-liner-phishing-analysis)』, 2022/04/20
 - 「[AVTOKYO2021](https://www.avtokyo.org/2021/event)」 - 『ライブでパブコメ！？「詐欺サイトに関する机上演習」を完成させよ。』, 2021/10/23
