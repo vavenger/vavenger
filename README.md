@@ -98,6 +98,7 @@ Here are some ideas to get you started:
 - APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
 
 ## 🎤 登壇投稿 [🔝](#Menu)
+- フィッシング対策協議会　「[詐欺サイト対処机上演習（プロトタイプ版）開催](https://www.antiphishing.jp/news/info/tabletopexercise_20230602.html)」, 2023/05/30
 - Qiita×HITACHI主催 「[Social Tech Talk #03](https://corp.qiita.com/releases/2022/05/hitachi-qiita-event-202206/)」 - 『[技術トークセッション：セキュリティ人材のキャリアトーク](https://increments.connpass.com/event/245693/)』, 2022/06/15
 - 「第1回 スミッシング対策技術勉強会」 - 『[コマンドラインで分析するフィッシングデータセット（初級編）](https://www.docswell.com/s/v_avenger/KPX88Z-Anti-SMiShing-Study-Group_one-liner-phishing-analysis)』, 2022/04/20
 - 「[AVTOKYO2021](https://www.avtokyo.org/2021/event)」 - 『ライブでパブコメ！？「詐欺サイトに関する机上演習」を完成させよ。』, 2021/10/23
