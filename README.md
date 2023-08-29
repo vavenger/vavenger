@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 - 『Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携』（共著）, 2015/04/30, リックテレコム
 
 ## 🏫 Udemy講師 [🔝](#Menu)
+- 『[【サイバーセキュリティ 実践】ハンズオンで学ぶWeb3におけるブロックチェーンとスマートコントラクトのセキュリティ](https://www.udemy.com/course/bugbounty-web3-smartcontracts/?referralCode=1CB3B2B859EBB17745B0)』, 2023/07/15
 - 『[【サイバーセキュリティ 実践】車載ネットワークに対するサイバー攻撃シミュレーションとCAN通信の基礎知識](https://www.udemy.com/course/bugbounty-carhacking/?referralCode=6D740AAB2EFBBDEED940)』, 2022/09/16
 - 『[【はじめてのバグバウンティ】ホームネットワークデバイスで学ぶファームウェア解析と組み込みLinuxのセキュリティ](https://www.udemy.com/course/bugbounty-firmware/?referralCode=64469FD1B965E541142E)』, 2022/03/02
 - 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とWordPressの堅牢化](https://www.udemy.com/course/boot2root-wordpress/?referralCode=B7E3E12E34491B0C9F3E)』, 2021/10/05
