@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 - JNSA『[JNSAセキュリティチャレンジスクール 2023冬期講座 in 京都](https://www.jnsa.org/seminar/edu/secuchalle/winter/index.html)』, 2023/12/26 - 27
 - JC3『『[フィッシングサイトテイクダウン講習会 in 札幌](https://www.asahi.com/articles/ASRDN3JM4RDJIIPE006.html)』 - 「フィッシング詐欺にかかる専門知識」, 2023/12/6
 - 日本シーサート協議会 インシデント対応演習訓練WG『フィッシング対策協議会 連携特別会〜詐欺サイト対処机上演習を体験しよう〜』, 2023/10/30
-- ISACA名古屋 9月度月例会『[詐欺サイト対処机上演習（mini版）](https://passmarket.yahoo.co.jp/event/show/detail/01bctb8jvf831.html)』, 2023/09/16
+- ISACA名古屋 9月度月例会『[詐欺サイト対処机上演習（mini版）](https://engage.isaca.org/nagoyachapter/events/eventdescription?CalendarEventKey=ecba07bc-f1eb-442c-9c3b-018a68d30810)』, 2023/09/16
 - JNSA『[セキュチャレ・入門編 第1回 - ゼロからペネトレーションテスト, TryHackMe - Kenobi](https://www.jnsa.org/seminar/2023/edu/index.html)』, 2023/08/17 - 18
 - 兵庫県サイバー犯罪対策ネットワーク　全体会 パネルディスカッション　『[どうする？フィッシング対策！〜情報発信のあり方、発信情報の活用](https://twitter.com/HPP_c3division/status/1671681745102733312)』, 2023/06/15
 - フィッシング対策協議会　「[詐欺サイト対処机上演習（プロトタイプ版）開催](https://www.antiphishing.jp/news/info/tabletopexercise_20230602.html)」, 2023/05/30
@@ -145,7 +145,7 @@ Here are some ideas to get you started:
 - JSSEC 「[スマートフォン セキュリティ アップデート（2014 夏）](https://www.jssec.org/event/140801.html)」 - 『[様々なジャンルにはびこる偽アプリ](http://www.jssec.org/dl/20140801_TrendMicro_Noriaki_HAYASHI.pdf)』, 2014/08/01
 - JNSAメールマガジン 第40号 『[IoT時代における「運行支援プロトコル：ADS-B/AIS」に対するセキュリティ確保の挑戦](https://www.jnsa.org/aboutus/jnsaml/ml-40.html)』, 2014/07/25
 - 「[新潟県サイバーセキュリティフォーラム2014](http://www.cyber.niigata.jp/html/antisocial.html)」(第3回反社会的勢力排除分科会） - 『「オンライン銀行詐欺ツール」を使った新たな詐欺手口』, 2014/07/17
-- ISACA 「[ISACA名古屋支部月例会](https://www.isaca-nagoya.org/)」 - 『[ソフトウェア無線を使った運行支援システムに対するサイバー攻撃の可能性](https://www.isaca-nagoya.org/?q=node/478)』, 2014/03/15
+- ISACA 「[ISACA名古屋支部月例会]([[https://www.isaca-nagoya.org/](https://engage.isaca.org/nagoyachapter/)](https://engage.isaca.org/nagoyachapter/))」 - 『[ソフトウェア無線を使った運行支援システムに対するサイバー攻撃の可能性](https://www.isaca-nagoya.org/?q=node/478)』, 2014/03/15
 - JSSEC 「[2013年のスマートフォンの脅威と2014年の脅威予測](https://www.jssec.org/event/20131128.html)」カンファレンス - 『[Apple iOSにおけるヒヤリ・ハット事象](https://www.jssec.org/dl/20131128_2.pdf)』, 2013/11/28
 - @IT 「[こうしてWebは改ざんされた](https://www.atmarkit.co.jp/ait/series/1212/)」連載, 2013/06/07 - 2013/11/08
 - JSSEC 「[スマートフォンの安全安心な利用についての取り組みに関するセミナー](https://www.jssec.org/event/20130708.html)」 - 『最新の脅威の動向, Mobile Security Threat Updates』, 2013/07/08
