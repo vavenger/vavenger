@@ -99,12 +99,12 @@ Here are some ideas to get you started:
 
 ## 🎤 登壇投稿 [🔝](#Menu)
 - JNSA『[JNSAセキュリティチャレンジスクール 2023冬期講座 in 京都](https://www.jnsa.org/seminar/edu/secuchalle/winter/index.html)』, 2023/12/26 - 27
-- JC3『『[フィッシングサイトテイクダウン講習会 in 札幌](https://www.asahi.com/articles/ASRDN3JM4RDJIIPE006.html)』 - 「フィッシング詐欺にかかる専門知識」, 2023/12/6
+- JC3『[フィッシングサイトテイクダウン講習会 in 札幌](https://www.asahi.com/articles/ASRDN3JM4RDJIIPE006.html)』 - 「フィッシング詐欺にかかる専門知識」, 2023/12/6
 - 日本シーサート協議会 インシデント対応演習訓練WG『フィッシング対策協議会 連携特別会〜詐欺サイト対処机上演習を体験しよう〜』, 2023/10/30
 - ISACA 「[ISACA名古屋支部月例会](https://engage.isaca.org/nagoyachapter/)」  - 『[詐欺サイト対処机上演習（mini版）](https://engage.isaca.org/nagoyachapter/events/eventdescription?CalendarEventKey=ecba07bc-f1eb-442c-9c3b-018a68d30810)』, 2023/09/16
 - JNSA『[セキュチャレ・入門編 第1回 - ゼロからペネトレーションテスト, TryHackMe - Kenobi](https://www.jnsa.org/seminar/2023/edu/index.html)』, 2023/08/17 - 18
 - 兵庫県サイバー犯罪対策ネットワーク　全体会 パネルディスカッション　『[どうする？フィッシング対策！〜情報発信のあり方、発信情報の活用](https://twitter.com/HPP_c3division/status/1671681745102733312)』, 2023/06/15
-- フィッシング対策協議会　「[詐欺サイト対処机上演習（プロトタイプ版）開催](https://www.antiphishing.jp/news/info/tabletopexercise_20230602.html)」, 2023/05/30
+- フィッシング対策協議会『[詐欺サイト対処机上演習（プロトタイプ版）開催](https://www.antiphishing.jp/news/info/tabletopexercise_20230602.html)』, 2023/05/30
 - Qiita×HITACHI主催 「[Social Tech Talk #03](https://corp.qiita.com/releases/2022/05/hitachi-qiita-event-202206/)」 - 『[技術トークセッション：セキュリティ人材のキャリアトーク](https://increments.connpass.com/event/245693/)』, 2022/06/15
 - 「第1回 スミッシング対策技術勉強会」 - 『[コマンドラインで分析するフィッシングデータセット（初級編）](https://www.docswell.com/s/v_avenger/KPX88Z-Anti-SMiShing-Study-Group_one-liner-phishing-analysis)』, 2022/04/20
 - 「[AVTOKYO2021](https://www.avtokyo.org/2021/event)」 - 『ライブでパブコメ！？「詐欺サイトに関する机上演習」を完成させよ。』, 2021/10/23
