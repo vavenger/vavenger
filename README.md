@@ -100,6 +100,7 @@ Here are some ideas to get you started:
 ## 🎤 登壇投稿 [🔝](#Menu)
 - JNSA『[JNSAセキュリティチャレンジスクール 2023冬期講座 in 京都](https://www.jnsa.org/seminar/edu/secuchalle/winter/index.html)』, 2023/12/26 - 27
 - JC3『『[フィッシングサイトテイクダウン講習会 in 札幌](https://www.asahi.com/articles/ASRDN3JM4RDJIIPE006.html)』 - 「フィッシング詐欺にかかる専門知識」, 2023/12/6
+- 日本シーサート協議会 インシデント対応演習訓練WG『フィッシング対策協議会 連携特別会〜詐欺サイト対処机上演習を体験しよう〜』, 2023/10/30
 - ISACA名古屋 9月度月例会『[詐欺サイト対処机上演習（mini版）](https://passmarket.yahoo.co.jp/event/show/detail/01bctb8jvf831.html)』, 2023/09/16
 - JNSA『[セキュチャレ・入門編 第1回 - ゼロからペネトレーションテスト, TryHackMe - Kenobi](https://www.jnsa.org/seminar/2023/edu/index.html)』, 2023/08/17 - 18
 - 兵庫県サイバー犯罪対策ネットワーク　全体会 パネルディスカッション　『[どうする？フィッシング対策！〜情報発信のあり方、発信情報の活用](https://twitter.com/HPP_c3division/status/1671681745102733312)』, 2023/06/15
