@@ -98,6 +98,9 @@ Here are some ideas to get you started:
 - APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
 
 ## 🎤 登壇投稿 [🔝](#Menu)
+- JNSA『[JNSAセキュリティチャレンジスクール 2023冬期講座 in 京都](https://www.jnsa.org/seminar/edu/secuchalle/winter/index.html)』, 2023/12/26 - 27
+- JC3『『[フィッシングサイトテイクダウン講習会 in 札幌](https://www.asahi.com/articles/ASRDN3JM4RDJIIPE006.html)』 - 「フィッシング詐欺にかかる専門知識」, 2023/12/6
+- ISACA名古屋 9月度月例会『[詐欺サイト対処机上演習（mini版）](https://passmarket.yahoo.co.jp/event/show/detail/01bctb8jvf831.html)』, 2023/09/16
 - JNSA『[セキュチャレ・入門編 第1回 - ゼロからペネトレーションテスト, TryHackMe - Kenobi](https://www.jnsa.org/seminar/2023/edu/index.html)』, 2023/08/17 - 18
 - 兵庫県サイバー犯罪対策ネットワーク　全体会 パネルディスカッション　『[どうする？フィッシング対策！〜情報発信のあり方、発信情報の活用](https://twitter.com/HPP_c3division/status/1671681745102733312)』, 2023/06/15
 - フィッシング対策協議会　「[詐欺サイト対処机上演習（プロトタイプ版）開催](https://www.antiphishing.jp/news/info/tabletopexercise_20230602.html)」, 2023/05/30
