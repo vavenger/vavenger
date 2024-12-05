@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 - トレンドマイクロ株式会社 - ながさきDX推進プロジェクト事務局『[DX推進のためのインターネットとセキュリティ基礎](https://nagasaki-dx-project.studio.site/news/018)』講座, 2024/11/06, 2024/11/07
 - フィッシング対策協議会 - Security Days Fall 2024 名古屋『[ブランドを騙った詐欺被害を乗り越えるための教訓：机上演習（TTX）キットの実践と洞察（ワークショップ）](https://f2ff.jp/introduction/9615?event_id=secd-2024-02-nagoya)』, 2024/10/29
 - フィッシング対策協議会 - Security Days Fall 2024 東京『[ブランドを騙った詐欺被害を乗り越えるための教訓：机上演習（TTX）キットの実践と洞察（ワークショップ）](https://f2ff.jp/introduction/9499?event_id=secd-2024-02-tokyo)』, 2024/10/22
-- IssueHunt『[P3NFEST Conf 2024 Summer]([https://issuehunt.jp/events/2024/p3nfestconf](https://issuehunt.jp/events/2024/summer/p3nfest))』にて『脆弱性の探求：攻撃者の目線で校内ネットワークを探る, VulnHub - VulnUni』ハンズオンの講師を担当, 2024/08/31
+- IssueHunt『[P3NFEST Conf 2024 Summer](https://issuehunt.jp/events/2024/summer/p3nfest)』にて『脆弱性の探求：攻撃者の目線で校内ネットワークを探る, VulnHub - VulnUni』ハンズオンの講師を担当, 2024/08/31
 - トレンドマイクロ株式会社 - ながさきDX推進プロジェクト事務局『[DX推進のためのインターネットとセキュリティ基礎](https://nagasaki-dx-project.studio.site/news/016)』講座, 2024/06/27, 2024/06/28
 - IssueHunt『[P3NFEST Conf 2024](https://issuehunt.jp/events/2024/p3nfestconf)』にて『脆弱性の探求：攻撃者の目線で校内ネットワークを探る, VulnHub - VulnUni』ハンズオンの講師を担当, 2024/02/17
 - JNSA『[JNSAセキュリティチャレンジスクール 2024春期講座](https://www.jnsa.org/seminar/edu/secuchalle/spring/2024/index.html)』, 2024/03/25 - 26
