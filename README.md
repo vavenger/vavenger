@@ -108,10 +108,11 @@ Here are some ideas to get you started:
 - IssueHunt『[P3NFEST Conf 2024](https://issuehunt.jp/events/2024/p3nfestconf)』にて『脆弱性の探求：攻撃者の目線で校内ネットワークを探る, VulnHub - VulnUni』ハンズオンの講師を担当, 2024/02/17
 - JNSA『[JNSAセキュリティチャレンジスクール 2024春期講座](https://www.jnsa.org/seminar/edu/secuchalle/spring/2024/index.html)』, 2024/03/25 - 26
 - フィッシング対策協議会 - Security Days Spring 2024 東京『[ブランドを騙った詐欺被害を乗り越えるための教訓：机上演習（TTX）キットの実践と洞察](https://f2ff.jp/introduction/8758?event_id=secd-2024-01-tokyo)』, 2024/03/15
+- フィッシング対策協議会 - FIN/SUM 2024『[詐欺サイト対処机上演習（mini版）](https://2024.finsum.jp/program_day3.html)』, 2024/03/07
 - JNSA『[JNSAセキュリティチャレンジスクール 2023冬期講座 in 京都](https://www.jnsa.org/seminar/edu/secuchalle/winter/index.html)』, 2023/12/26 - 27
 - JC3『[フィッシングサイトテイクダウン講習会 in 札幌](https://www.asahi.com/articles/ASRDN3JM4RDJIIPE006.html)』 - 「フィッシング詐欺にかかる専門知識」, 2023/12/6
 - 日本シーサート協議会 インシデント対応演習訓練WG『フィッシング対策協議会 連携特別会〜詐欺サイト対処机上演習を体験しよう〜』, 2023/10/30
-- ISACA 「[ISACA名古屋支部月例会](https://engage.isaca.org/nagoyachapter/)」  - 『[詐欺サイト対処机上演習（mini版）](https://engage.isaca.org/nagoyachapter/events/eventdescription?CalendarEventKey=ecba07bc-f1eb-442c-9c3b-018a68d30810)』, 2023/09/16
+- フィッシング対策協議会 - ISACA 「[ISACA名古屋支部月例会](https://engage.isaca.org/nagoyachapter/)」  - 『[詐欺サイト対処机上演習（mini版）](https://engage.isaca.org/nagoyachapter/events/eventdescription?CalendarEventKey=ecba07bc-f1eb-442c-9c3b-018a68d30810)』, 2023/09/16
 - JNSA『[セキュチャレ・入門編 第1回 - ゼロからペネトレーションテスト, TryHackMe - Kenobi](https://www.jnsa.org/seminar/2023/edu/index.html)』, 2023/08/17 - 18
 - 兵庫県サイバー犯罪対策ネットワーク　全体会 パネルディスカッション　『[どうする？フィッシング対策！〜情報発信のあり方、発信情報の活用](https://twitter.com/HPP_c3division/status/1671681745102733312)』, 2023/06/15
 - フィッシング対策協議会『[詐欺サイト対処机上演習（プロトタイプ版）開催](https://www.antiphishing.jp/news/info/tabletopexercise_20230602.html)』, 2023/05/30
