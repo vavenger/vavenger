@@ -106,6 +106,7 @@ Here are some ideas to get you started:
 - IssueHunt『[P3NFEST Conf 2024 Summer]([https://issuehunt.jp/events/2024/p3nfestconf](https://issuehunt.jp/events/2024/summer/p3nfest))』にて『脆弱性の探求：攻撃者の目線で校内ネットワークを探る, VulnHub - VulnUni』ハンズオンの講師を担当, 2024/08/31
 - トレンドマイクロ株式会社 - ながさきDX推進プロジェクト事務局『[DX推進のためのインターネットとセキュリティ基礎](https://nagasaki-dx-project.studio.site/news/016)』講座, 2024/06/27, 2024/06/28
 - IssueHunt『[P3NFEST Conf 2024](https://issuehunt.jp/events/2024/p3nfestconf)』にて『脆弱性の探求：攻撃者の目線で校内ネットワークを探る, VulnHub - VulnUni』ハンズオンの講師を担当, 2024/02/17
+- JNSA『[JNSAセキュリティチャレンジスクール 2024春期講座](https://www.jnsa.org/seminar/edu/secuchalle/spring/2024/index.html)』, 2024/03/25 - 26
 - JNSA『[JNSAセキュリティチャレンジスクール 2023冬期講座 in 京都](https://www.jnsa.org/seminar/edu/secuchalle/winter/index.html)』, 2023/12/26 - 27
 - JC3『[フィッシングサイトテイクダウン講習会 in 札幌](https://www.asahi.com/articles/ASRDN3JM4RDJIIPE006.html)』 - 「フィッシング詐欺にかかる専門知識」, 2023/12/6
 - 日本シーサート協議会 インシデント対応演習訓練WG『フィッシング対策協議会 連携特別会〜詐欺サイト対処机上演習を体験しよう〜』, 2023/10/30
