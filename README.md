@@ -98,6 +98,12 @@ Here are some ideas to get you started:
 - APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
 
 ## 🎤 登壇投稿 [🔝](#Menu)
+- フィッシング対策協議会 - Internet Week 2024『[ブランドを騙った詐欺被害を乗り越えるための教訓：机上演習（TTX）キットの実践と洞察（ワークショップ）](https://internetweek.jp/2024/archives/program/h7)』, 2024/11/27
+- フィッシング対策協議会 - JPAAWG 7th General Meeting『[ブランドを騙った詐欺被害を乗り越えるための教訓：机上演習（TTX）キットの実践と洞察（ワークショップ）](https://meetings.jpaawg.org/program/)』, 2024/11/11
+- フィッシング対策協議会 - Security Days Fall 2024 名古屋『[ブランドを騙った詐欺被害を乗り越えるための教訓：机上演習（TTX）キットの実践と洞察（ワークショップ）](https://f2ff.jp/introduction/9615?event_id=secd-2024-02-nagoya)』, 2024/10/29
+- フィッシング対策協議会 - Security Days Fall 2024 東京『[ブランドを騙った詐欺被害を乗り越えるための教訓：机上演習（TTX）キットの実践と洞察（ワークショップ）](https://f2ff.jp/introduction/9499?event_id=secd-2024-02-tokyo)』, 2024/10/22
+- IssueHunt『[P3NFEST Conf 2024 Summer]([https://issuehunt.jp/events/2024/p3nfestconf](https://issuehunt.jp/events/2024/summer/p3nfest))』にて『脆弱性の探求：攻撃者の目線で校内ネットワークを探る, VulnHub - VulnUni』ハンズオンの講師を担当, 2024/08/31
+- IssueHunt『[P3NFEST Conf 2024](https://issuehunt.jp/events/2024/p3nfestconf)』にて『脆弱性の探求：攻撃者の目線で校内ネットワークを探る, VulnHub - VulnUni』ハンズオンの講師を担当, 2024/02/17
 - JNSA『[JNSAセキュリティチャレンジスクール 2023冬期講座 in 京都](https://www.jnsa.org/seminar/edu/secuchalle/winter/index.html)』, 2023/12/26 - 27
 - JC3『[フィッシングサイトテイクダウン講習会 in 札幌](https://www.asahi.com/articles/ASRDN3JM4RDJIIPE006.html)』 - 「フィッシング詐欺にかかる専門知識」, 2023/12/6
 - 日本シーサート協議会 インシデント対応演習訓練WG『フィッシング対策協議会 連携特別会〜詐欺サイト対処机上演習を体験しよう〜』, 2023/10/30
