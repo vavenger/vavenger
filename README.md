@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - researchmap会員ID: [R000032018](https://researchmap.jp/noriaki_hayashi)
 - [Wantedly Profile](https://www.wantedly.com/id/hayashi_noriaki)
 
+- [Blue Team Labs Online, v_avenger [Trainee Defender]](https://blueteamlabs.online/public/user/86ff5e1e266ec2e141991c)
 - [Hack The Box, v avenger [Pro Hacker]](https://app.hackthebox.eu/profile/174656)
 - [TryHackMe, vavenger [0xB][MASTER]](https://tryhackme.com/p/vavenger)
 
