@@ -101,6 +101,7 @@ Here are some ideas to get you started:
 - APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
 
 ## 🎤 登壇投稿 [🔝](#Menu)
+- フィッシング対策協議会 - ISACA 「[ISACA大阪支部月例会](https://www.isaca-osaka.org/)」 - 『[ブランドを騙った詐欺被害を乗り越えるための教訓：机上演習（TTX）キットの実践と洞察](https://www.isaca-osaka.org/global_EventsDetail.php?eventsId=121)』, 2025/04/16
 - IssueHunt『[P3NFEST Conf 2025 Winter](https://issuehunt.jp/events/2025/winter/p3nfest)』にて『脆弱性の探求：攻撃者の目線で校内ネットワークを探る, VulnHub - VulnUni』ハンズオンの講師を担当, 2025/03/15
 - フィッシング対策協議会 - Security Days Spring 2025 東京『[ブランドを騙った詐欺被害を乗り越えるための教訓：机上演習（TTX）キットの実践と洞察（ワークショップ）](https://f2ff.jp/introduction/10195?event_id=secd-2025-01-tokyo)』, 2025/03/14
 - 兵庫県警察本部 兵庫県サイバー防犯ボランティア向け研修会『[サイバー空間を守る力詐欺行為の現状と未然防止に向けたボランティア活動の新たなアプローチ](https://x.com/HPP_c3division/status/1898925944011882844)』, 2025/02/21
