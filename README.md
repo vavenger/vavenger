@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 - 『[【はじめてのフラグ獲得】Boot2Root CTFチャレンジで学ぶハッキングの手口とローカル特権昇格](https://www.udemy.com/course/boot2root-easy/?referralCode=F15F0137836B60779BB6)』, 2021/06/23
 
 ## 📰 掲載記事 [🔝](#Menu)
+- 日刊警察新聞『学生サイバー防犯ボランティアの研修会〜兵庫県警〜』, 2025/04/15
 - 朝日新聞『[詐欺プログラム開発、FBIに追われた17歳　世界で被害起こすまで](https://www.asahi.com/articles/ASR8851V5R75UHBI030.html)』, 2023/08/08
 - ＠IT - キャリア実現研究室『[最前線の知見を高専でのセキュリティ教育に反映、高知高専で副業先生が”しびれる”特別講義](https://atmarkit.itmedia.co.jp/ait/articles/2211/30/news008.html)』, 2022/11/30
 - Qiita Zine『[エンジニアのキャリアと生存戦略を考える。日立製作所主催「Social Tech Talk #03」イベントレポート](https://zine.qiita.com/event/202209-hitachi/)』, 2022/09/02
