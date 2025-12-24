@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/windows-Acer%20Aspire5750G-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 
 ## 📚 著書 [🔝](#Menu)
+- 『実践サイバーセキュリティ入門講座 現場に残された痕跡からハッカーの攻撃を暴け』（単著）, 2025/08/30, SBクリエイティブ 
 - 『フィッシング詐欺のビジネスプロセス分類』（共著）, 2021/03/15, 情報処理学会 DPS 研究会 - 第186回DPS研究発表会
 - 『問題を解いて実力をチェック IoTの問題集』（共著）, 2018/06/15, 日経BP
 - 『ドメインの特徴によるフィッシング詐欺サイト探索の可能性』（共著）, 2018/03/13, 情報処理学会第80回全国大会
