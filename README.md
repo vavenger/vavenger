@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ## 💻 Workspace Spec [🔝](#Menu)
 <!-- alexandresanlim/Badges4-README.md-Profile -->
 <img src="https://img.shields.io/badge/apple-MacBook%20Pro%2014inch,%202023-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/ProxmoxVE-GMKtec%20M6%20Ultra-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/apple-MacBook%20Pro%2013inch,%202016-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/windows-Acer%20Aspire5750G-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 
