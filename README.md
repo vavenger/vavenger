@@ -125,6 +125,7 @@ Here are some ideas to get you started:
 - フィッシング対策協議会 - Security Days Spring 2024 東京『[ブランドを騙った詐欺被害を乗り越えるための教訓：机上演習（TTX）キットの実践と洞察](https://f2ff.jp/introduction/8758?event_id=secd-2024-01-tokyo)』, 2024/03/15
 - フィッシング対策協議会 - FIN/SUM 2024『[詐欺サイト対処机上演習（mini版）](https://2024.finsum.jp/program_day3.html)』, 2024/03/07
 - JNSA『[JNSAセキュリティチャレンジスクール 2023冬期講座 in 京都](https://www.jnsa.org/seminar/edu/secuchalle/winter/index.html)』, 2023/12/26 - 27
+- トレンドマイクロ株式会社 - ながさきDX推進プロジェクト事務局『DX推進のためのインターネットとセキュリティ基礎』講座, 2023/12/12
 - JC3『[フィッシングサイトテイクダウン講習会 in 札幌](https://www.asahi.com/articles/ASRDN3JM4RDJIIPE006.html)』 - 「フィッシング詐欺にかかる専門知識」, 2023/12/6
 - 日本シーサート協議会 インシデント対応演習訓練WG『フィッシング対策協議会 連携特別会〜詐欺サイト対処机上演習を体験しよう〜』, 2023/10/30
 - フィッシング対策協議会 - ISACA 「[ISACA名古屋支部月例会](https://engage.isaca.org/nagoyachapter/)」  - 『[詐欺サイト対処机上演習（mini版）](https://engage.isaca.org/nagoyachapter/events/eventdescription?CalendarEventKey=ecba07bc-f1eb-442c-9c3b-018a68d30810)』, 2023/09/16
