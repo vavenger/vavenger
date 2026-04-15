@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - 『Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携』（共著）, 2015/04/30, リックテレコム
 
 ## 🏫 Udemy講師 [🔝](#Menu)
-- 『[【サイバーセキュリティ 速習】初学者のためのキャリアデザイン入門〜セキュリティ専門家への道を描く〜]』(https://www.udemy.com/course/cybersec-career-design/?referralCode=2CA085D55BB41071B145), 2026/03/13
+- 『[【サイバーセキュリティ 速習】初学者のためのキャリアデザイン入門 〜セキュリティ専門家への道を描く〜](https://www.udemy.com/course/cybersec-career-design/?referralCode=2CA085D55BB41071B145)』, 2026/03/13
 - 『[【サイバーセキュリティ 速習】現場担当者のための「自動車産業サイバーセキュリティガイドライン」](https://www.udemy.com/course/riskops-automotive-industry/?referralCode=05DB801915D3671E1D77)』, 2025/10/24
 - 『[【サイバーセキュリティ 実践】ハンズオンで学ぶWeb3におけるブロックチェーンとスマートコントラクトのセキュリティ](https://www.udemy.com/course/bugbounty-web3-smartcontracts/?referralCode=1CB3B2B859EBB17745B0)』, 2023/07/15
 - 『[【サイバーセキュリティ 実践】車載ネットワークに対するサイバー攻撃シミュレーションとCAN通信の基礎知識](https://www.udemy.com/course/bugbounty-carhacking/?referralCode=6D740AAB2EFBBDEED940)』, 2022/09/16
