@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 - 『Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携』（共著）, 2015/04/30, リックテレコム
 
 ## 🏫 Udemy講師 [🔝](#Menu)
+- 『[【サイバーセキュリティ 速習】初学者のためのキャリアデザイン入門 〜セキュリティ専門家への道を描く〜]』(https://www.udemy.com/course/cybersec-career-design/?referralCode=2CA085D55BB41071B145), 2026/03/13
 - 『[【サイバーセキュリティ 速習】現場担当者のための「自動車産業サイバーセキュリティガイドライン」](https://www.udemy.com/course/riskops-automotive-industry/?referralCode=05DB801915D3671E1D77)』, 2025/10/24
 - 『[【サイバーセキュリティ 実践】ハンズオンで学ぶWeb3におけるブロックチェーンとスマートコントラクトのセキュリティ](https://www.udemy.com/course/bugbounty-web3-smartcontracts/?referralCode=1CB3B2B859EBB17745B0)』, 2023/07/15
 - 『[【サイバーセキュリティ 実践】車載ネットワークに対するサイバー攻撃シミュレーションとCAN通信の基礎知識](https://www.udemy.com/course/bugbounty-carhacking/?referralCode=6D740AAB2EFBBDEED940)』, 2022/09/16
@@ -105,7 +106,7 @@ Here are some ideas to get you started:
 - APWG 「[Counter eCrime Operations Summit (CeCOS VII)](https://www.antiphishing.jp/report/wg/2013cecosvii.html)」 - 『[ Finding the Banking Trojan in Eastern Asia (極東地域におけるオンライン銀行詐欺ツール関する所見)](http://www.antiphishing.jp/report/pdf/jpn_CeCOS%20VII_Finding%20the%20Banking%20Trojan%20in%20Eastern%20Asia.pdf)』, 2013/04/23
 
 ## 🎤 登壇投稿 [🔝](#Menu)
-- IssueHunt『[P3NFEST Conf 2026 Spring](https://issuehunt.jp/p3nfest/2026/spring)』にて『"Blue Team Labs Online"入門 - みんなで挑むログ解析バトル』ハンズオンの講師を担当, 2026/03/07
+- IssueHunt『[P3NFEST Conf 2026 Spring](https://issuehunt.jp/p3nfest/2026/spring)』にて『["Blue Team Labs Online"入門 - みんなで挑むログ解析バトル](https://www.docswell.com/s/v_avenger/5L3X9Q-log-analysis-battle-btlo)』ハンズオンの講師を担当, 2026/03/07
 - [埼玉消費者被害をなくす会](https://saitama-higainakusukai.or.jp/) - 消費者力アップ学習会 - 『[あなたに届いたそのメール、フィッシングメールかも！～手口と対策を学ぼう～](https://saitama-higainakusukai.or.jp/topics/260312_01.html)』, [フィッシング対策協議会](https://www.antiphishing.jp/news/info/tabletopexercise_20260305.html) 2026/03/05
 - [静岡産業技術専門学校](https://www.sangi.ac.jp/) - 『[コンピュータ科1年生が、サイバーセキュリティに関する特別授業を実施しました。](https://www.sangi.ac.jp/2025/12/16/%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e7%a7%911%e5%b9%b4%e7%94%9f%e3%81%8c%e3%80%81%e3%82%b5%e3%82%a4%e3%83%90%e3%83%bc%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%81%ab/)』, 2025/12/16
 - [Internet Week 2025](https://internetweek.jp/2025/) - 『[詐欺サイト対処机上演習＋社内セキュリティ意識向上と行動変容へ向けた取組み](https://internetweek.jp/2025/archives/program/h4)』, 2025/11/26
